@@ -1,0 +1,1433 @@
+﻿;;;;;;;;males;;;;females;;;males;females;offspring;;;;
+;;;;;;;;white eyes;;;;red eyes;;;red eyes;white eyes;;;;;
+vialNr;fliesScoredBy;vialsScoredBy;population;line;mother;cross;genotype;males_whiteeyes_RG;males_whiteeyes_G;males_whiteeyes_R;males_whiteeyes_N;females_redeyes_R;females_redeyes_NR;females_redeyes_unclear;males_redeyes_unclear;females_whiteeyes_NR;offspring_unclear;unhatched;dead;mediumLooks;notes
+1;Nicky;Nicky;AK;5;3;2;CO;0;16;0;32;0;29;0;0;0;0;0;0;fresh;
+2;Nicky;Nicky;KA;4;1;3;GD;8;0;17;1;21;1;0;0;0;0;8;1;fresh;
+3;Nicky;Nicky;UM;6;5;5;GD;26;0;28;2;47;8;0;0;0;0;8;2;fresh;
+4;Nicky;Nicky;RE;1;5;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+5;Nicky;Nicky;MU;5;5;5;GD;1;0;0;0;4;2;0;0;0;0;0;0;fresh;
+6;Nicky;Nicky;RE;3;1;3;GD;17;2;15;1;28;1;0;0;0;0;7;0;fresh;
+7;Nicky;Nicky;MU;3;6;4;CO;0;4;0;6;0;6;0;0;0;0;1;0;fresh;
+8;Nicky;Nicky;KA;1;1;1;CO;0;14;0;24;0;55;0;0;0;0;8;0;fresh;
+9;Nicky;Nicky;UM;5;4;1;CO;0;28;0;25;0;45;0;0;0;0;0;0;brown;black larvae (30ish)
+10;Nicky;Nicky;UM;1;4;2;CO;0;15;0;20;0;37;0;0;0;0;0;0;fresh;black larvae (5ish)
+11;Nicky;Nicky;AK;3;3;5;CO;0;9;0;11;0;35;0;0;0;0;3;0;fresh;
+12;Nicky;Nicky;MU;4;1;1;GD;8;0;8;2;26;1;0;0;0;0;0;0;fresh;
+13;Nicky;Nicky;UM;1;1;2;GD;19;1;29;1;66;5;0;0;0;0;14;6;brown;black larvae (1ish), 5 dead flies still in sample
+14;Nicky;Nicky;UM;6;5;2;CO;0;3;0;19;0;49;0;0;0;0;1;0;fresh;
+15;Nicky;Nicky;AK;5;3;3;CO;0;25;0;15;0;30;0;0;0;0;2;0;fresh;
+16;Nicky;Nicky;AK;4;6;4;CO;0;24;0;16;0;27;0;0;0;0;0;0;fresh;
+17;Nicky;Nicky;UM;6;5;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+18;Nicky;Nicky;RE;1;5;1;CO;0;0;0;1;0;5;0;0;0;0;0;0;fresh;
+19;Nicky;Nicky;AK;3;2;2;CO;0;9;0;18;0;34;0;0;0;0;1;0;fresh;
+20;Nicky;Nicky;AK;2;4;4;CO;0;12;0;15;0;39;0;0;0;0;1;0;fresh;
+21;Nicky;Nicky;UM;4;1;4;CO;0;13;0;13;0;22;0;0;0;0;0;0;fresh;
+22;Nicky;Nicky;MU;4;1;3;GD;19;3;26;2;39;1;0;0;0;0;1;1;fresh;
+23;Nicky;Nicky;MU;1;5;1;CO;0;25;0;21;0;46;0;0;0;0;2;7;fresh;
+24;Nicky;Nicky;AK;4;6;5;CO;0;7;0;0;0;25;0;6;0;0;5;7;fresh;black larvae (30ish)
+25;Nicky;Nicky;AK;3;4;5;CO;0;31;0;23;0;46;0;0;0;0;1;0;brown;black larvae (30ish)
+26;Nicky;Nicky;UM;6;5;3;GD;11;1;21;3;42;10;0;0;0;0;4;0;fresh;
+27;Nicky;Nicky;AK;2;2;4;GD;18;3;24;3;47;6;0;0;0;0;7;0;fresh;
+28;Nicky;Nicky;RE;6;3;3;GD;9;2;18;2;34;8;0;0;0;0;2;0;fresh;black larvae (1ish)
+29;Nicky;Nicky;UM;5;6;5;GD;13;3;20;1;45;6;0;0;0;0;12;0;fresh;
+30;Nicky;Nicky;AK;2;4;3;GD;8;0;7;1;22;3;0;0;0;0;3;0;fresh;
+31;Nicky;Nicky;UM;1;4;5;CO;0;20;0;24;0;45;0;0;0;0;0;0;fresh;black larvae (5ish)
+32;Nicky;Nicky;AK;2;1;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+33;Nicky;Nicky;RE;3;1;1;CO;0;0;0;15;0;27;0;0;0;0;0;0;fresh;
+34;Nicky;Nicky;MA;1;5;3;GD;12;4;2;2;9;8;0;0;0;0;0;0;fresh;
+35;Nicky;Nicky;UM;6;2;1;CO;0;0;0;61;0;75;0;0;0;0;3;0;fresh;
+36;Nicky;Nicky;MA;4;4;4;CO;0;10;0;17;0;42;0;0;0;0;1;0;fresh;
+37;Nicky;Nicky;AK;1;6;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+38;Nicky;Nicky;RE;6;2;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+39;Nicky;Nicky;MA;5;4;2;CO;0;20;0;9;0;23;0;0;0;0;0;0;fresh;
+40;Nicky;Nicky;KA;4;3;4;GD;10;4;16;3;15;4;10;0;0;0;1;0;fresh;
+41;Nicky;Nicky;MU;1;5;4;CO;0;29;0;15;0;41;0;0;0;0;2;1;fresh;black larvae (10ish)
+42;Nicky;Nicky;RE;3;3;1;GD;14;1;20;2;31;9;0;0;0;0;18;0;fresh;
+43;Nicky;Nicky;UM;5;6;4;GD;15;2;15;5;28;2;9;0;0;0;4;0;fresh;
+44;Nicky;Nicky;UM;6;3;4;GD;26;2;28;4;5;1;40;0;0;0;4;0;fresh;black larvae (5ish)
+45;Nicky;Nicky;MA;1;6;2;GD;9;0;0;0;4;0;24;13;0;0;5;0;fresh;black larvae (30ish)
+46;Nicky;Nicky;AK;3;1;3;GD;17;2;18;1;26;2;7;0;0;0;0;0;fresh;
+47;Nicky;Nicky;RE;1;6;4;GD;14;3;21;1;16;10;20;0;0;0;1;0;fresh;
+48;Nicky;Nicky;AK;4;3;5;GD;0;0;0;0;0;1;0;0;0;0;3;0;fresh;
+49;Nicky;Nicky;KA;4;6;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+50;Nicky;Nicky;KA;4;3;3;CO;0;3;0;2;0;6;0;0;0;0;0;1;fresh;
+51;Nicky;Nicky;AK;3;1;1;CO;0;17;0;13;0;32;0;0;0;0;1;0;fresh;
+52;Nicky;Nicky;UM;6;5;4;CO;0;13;0;7;0;50;0;27;0;0;2;0;brown;black larvae (10ish)
+53;Nicky;Nicky;AK;4;1;1;GD;13;3;2;1;0;0;24;0;0;0;0;0;fresh;black larvae (1ish)
+54;Nicky;Nicky;AK;6;5;2;GD;6;0;10;1;0;0;19;0;0;0;3;0;fresh;
+55;Nicky;Nicky;MU;1;5;3;CO;0;26;0;25;0;0;42;0;0;0;3;0;brown;black larvae (5ish)
+56;Nicky;Nicky;MA;7;2;3;GD;16;1;24;1;0;0;38;0;0;0;4;0;fresh;
+57;Nicky;Nicky;AK;4;1;3;GD;20;2;23;3;0;0;41;0;0;0;7;0;fresh;
+58;Nicky;Nicky;AK;4;3;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+59;Nicky;Nicky;RE;3;2;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+60;Nicky;Nicky;UM;4;1;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+61;Nicky;Nicky;KA;7;5;2;CO;0;19;0;13;0;0;29;0;0;0;0;30;brown;black larvae (5ish)
+62;Nicky;Nicky;AK;4;3;2;GD;20;3;25;3;0;0;64;0;0;0;1;2;fresh;black larvae (5ish)
+63;Nicky;Nicky;RE;3;2;4;GD;10;3;9;1;0;0;31;0;0;0;5;0;fresh;
+64;Nicky;Nicky;RE;1;5;1;GD;14;0;17;0;0;0;39;0;0;0;2;0;fresh;
+65;Nicky;Nicky;RE;6;3;4;GD;14;1;12;3;0;0;36;0;0;0;1;0;fresh;black larvae (10ish)
+66;Nicky;Nicky;KA;4;3;5;GD;13;3;11;1;0;0;33;0;0;0;1;20;brown;black larvae (20ish)
+67;Nicky;Nicky;UM;3;5;1;CO;0;18;0;37;0;0;66;0;0;0;5;8;brown;
+68;Nicky;Nicky;MU;3;6;1;CO;0;2;0;3;0;0;5;0;0;0;0;0;fresh;
+69;Nicky;Nicky;RE;6;5;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+70;Nicky;Nicky;KA;3;4;3;CO;0;6;0;5;0;0;10;0;0;0;0;0;fresh;
+71;Nicky;Nicky;AK;4;4;3;CO;0;10;0;12;0;0;29;0;0;0;0;0;fresh;
+72;Nicky;Nicky;MA;4;4;1;CO;0;19;0;10;0;0;42;0;0;0;0;1;brown;black larvae (10ish)
+73;Nicky;Nicky;UM;5;4;5;CO;0;31;0;25;0;0;50;0;0;0;0;0;fresh;
+74;Nicky;Nicky;KA;4;3;1;GD;9;0;1;0;0;0;31;16;0;0;0;0;brown;black larvae (10ish)
+75;Nicky;Nicky;RE;3;3;1;CO;0;21;0;17;0;0;31;0;0;0;0;0;fresh;
+76;Nicky;Nicky;AK;5;6;3;GD;7;3;1;1;0;0;6;0;0;0;0;0;fresh;
+77;Nicky;Nicky;UM;6;4;2;GD;11;2;11;4;0;0;62;0;0;0;5;2;fresh;
+78;Nicky;Nicky;UM;3;1;2;GD;20;1;16;1;0;0;29;0;0;0;0;0;fresh;
+79;Nicky;Nicky;KA;4;3;3;GD;11;0;10;1;0;0;25;0;0;0;0;0;fresh;
+80;Nicky;Nicky;MU;3;6;5;CO;0;15;0;15;0;0;49;0;0;0;4;0;fresh;
+81;Nicky;Nicky;KA;4;6;1;GD;15;1;4;0;0;0;34;11;0;0;2;1;brown;black larvae (20ish)
+82;Nicky;Nicky;RE;3;1;1;GD;20;8;27;3;0;0;69;0;0;0;0;0;brown;black larvae (20ish)
+83;Nicky;Nicky;KA;2;1;3;GD;17;3;23;5;0;0;45;0;0;0;4;0;fresh;
+84;Gabriella;Gabriella;KA;3;4;1;CO;0;2;0;1;0;0;5;0;0;0;0;0;fresh;
+85;Gabriella;Gabriella;MU;1;6;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh/fungi on top?;
+86;Gabriella;Gabriella;AK;3;2;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+87;Gabriella;Gabriella;UM;1;2;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+88;Gabriella;Gabriella;KA;4;3;2;GD;28;4;21;2;0;0;42;0;0;0;0;0;fresh;
+89;Nicky;Nicky;MA;5;6;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+90;Nicky;Nicky;KA;7;3;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+91;Nicky;Nicky;AK;1;1;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+92;Nicky;Nicky;UM;5;4;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+93;Nicky;Nicky;AK;2;1;2;CO;0;17;0;11;0;0;26;0;0;0;0;0;fresh;
+94;Nicky;Nicky;MU;5;5;3;GD;12;2;3;2;0;0;20;0;0;0;0;0;fresh;
+95;Nicky;Nicky;UM;3;5;1;GD;10;1;7;4;0;0;32;0;0;0;1;0;fresh;
+96;Nicky;Nicky;KA;2;6;1;GD;13;0;5;2;0;0;16;0;0;0;4;0;fresh;
+97;Nicky;Nicky;RE;2;1;2;CO;0;18;0;9;0;0;27;0;0;0;0;0;fresh;
+98;Nicky;Nicky;MU;3;1;2;GD;11;4;14;0;0;0;42;0;0;0;3;0;fresh;
+99;Nicky;Nicky;RE;3;3;3;GD;16;3;24;3;0;0;54;0;0;0;0;0;fresh;
+100;Nicky;Nicky;MA;4;3;4;GD;17;4;19;2;0;0;52;0;0;0;1;0;fresh;
+101;Nicky;Nicky;RE;4;1;4;GD;18;2;19;3;0;0;50;0;0;0;5;0;fresh;
+102;Nicky;Nicky;UM;6;5;4;GD;14;1;14;2;0;0;34;0;0;0;2;11;brown;black larvae (10ish)
+103;Nicky;Nicky;MA;7;4;5;CO;0;28;0;20;0;0;53;0;0;0;0;4;brown;black larvae (5ish)
+104;Nicky;Nicky;RE;2;4;4;CO;0;11;0;14;0;0;32;0;0;0;0;1;fresh;
+105;Nicky;Nicky;MU;1;2;1;GD;4;2;12;4;0;0;24;0;0;0;4;0;fresh;
+106;Nicky;Nicky;UM;1;4;1;CO;0;20;0;21;0;0;63;0;0;0;13;1;fresh;
+107;Nicky;Nicky;RE;6;5;1;GD;15;5;10;5;0;0;50;0;0;0;0;0;brown;black larvae (30ish)
+108;Nicky;Nicky;AK;1;2;4;GD;12;5;8;11;0;0;27;0;0;0;2;0;fresh;
+109;Nicky;Nicky;MU;3;6;2;CO;0;10;0;10;0;0;26;0;0;0;0;1;fresh;
+110;Nicky;Nicky;RE;1;5;5;CO;0;26;0;28;0;0;53;0;0;0;7;0;fresh;
+111;Nicky;Nicky;MU;1;3;2;GD;11;1;19;1;0;0;44;0;0;0;0;0;fresh;
+112;Nicky;Nicky;KA;4;1;5;GD;25;2;26;0;0;0;61;0;0;0;3;0;fresh;
+113;Nicky;Nicky;UM;4;5;4;GD;13;4;18;2;0;0;41;0;0;0;3;0;fresh;
+114;Nicky;Nicky;RE;6;3;1;GD;13;4;15;8;0;0;27;0;0;0;0;0;fresh;black larvae (10ish)
+115;Nicky;Nicky;UM;1;4;4;GD;10;0;6;0;0;0;28;0;0;0;1;0;brown;black larvae (1ish)
+116;Nicky;Nicky;AK;5;1;3;CO;0;32;0;28;0;0;80;0;0;0;3;0;brown;black larvae (5ish)
+117;Nicky;Nicky;UM;5;4;3;CO;0;20;0;22;0;0;59;0;0;0;0;0;brown;black larvae (30ish)
+118;Nicky;Nicky;AK;3;1;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+119;Nicky;Nicky;UM;6;4;3;GD;11;1;13;3;0;0;28;0;0;0;1;0;fresh;
+120;Nicky;Nicky;RE;3;2;5;GD;15;4;16;6;0;0;41;0;0;0;0;0;fresh;
+121;Nicky;Nicky;MA;6;3;2;GD;0;19;0;18;0;0;32;0;0;0;0;0;fresh;
+122;Nicky;Nicky;AK;2;4;4;GD;18;3;29;1;0;0;45;0;0;0;3;0;fresh;
+123;Nicky;Nicky;UM;3;2;2;CO;0;23;0;23;0;0;33;0;0;0;0;1;fresh;
+124;Nicky;Nicky;UM;6;4;1;GD;8;0;8;0;0;0;18;0;0;0;1;1;fresh;
+125;Nicky;Nicky;RE;4;5;5;GD;17;2;11;3;0;0;44;0;0;0;2;0;fresh;black larvae (1ish)
+126;Nicky;Nicky;AK;4;3;3;GD;16;1;9;2;0;0;17;0;0;0;0;0;fresh;
+127;Nicky;Nicky;AK;2;4;1;GD;10;1;6;1;0;0;30;0;0;0;4;0;fresh;
+128;Nicky;Nicky;UM;5;6;1;GD;7;2;12;5;0;0;26;0;0;0;0;0;brown;black larvae (20ish)
+129;Nicky;Nicky;UM;3;5;5;CO;0;21;0;19;0;0;44;0;0;0;1;0;brown;black larvae (10ish)
+130;Nicky;Nicky;MU;4;1;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+131;Nicky;Nicky;RE;6;2;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+132;Nicky;Nicky;UM;4;3;4;CO;0;10;0;1;0;0;21;5;0;0;0;0;fresh;
+133;Nicky;Nicky;KA;3;3;4;CO;0;12;0;13;0;0;21;0;0;0;0;0;fresh;
+134;Nicky;Nicky;MU;6;2;5;CO;0;6;0;9;0;0;19;0;0;0;2;0;fresh;
+135;Nicky;Nicky;KA;7;4;5;GD;18;2;24;3;0;0;70;0;0;0;2;0;fresh;
+136;Nicky;Nicky;KA;7;2;4;CO;0;4;0;9;0;0;7;0;0;0;0;2;fresh;
+137;Nicky;Nicky;RE;3;2;5;CO;0;25;0;21;0;0;38;0;0;0;1;1;fresh;
+138;Nicky;Nicky;KA;1;2;3;CO;0;11;0;22;0;0;31;0;12;0;0;0;brown;black larvae (5ish)
+139;Nicky;Nicky;RE;3;2;4;CO;0;14;0;12;0;0;33;0;0;0;0;3;brown;black larvae (1ish)
+140;Nicky;Nicky;MA;4;1;3;CO;0;4;0;10;0;0;18;0;0;0;0;0;fresh;
+141;Nicky;Nicky;KA;1;4;5;CO;0;1;0;2;0;0;4;0;0;0;0;2;fresh;
+142;Nicky;Nicky;KA;1;2;2;CO;0;23;0;22;0;0;44;0;0;0;1;1;fresh;black larvae (1ish)
+143;Nicky;Nicky;KA;4;3;2;CO;0;0;0;15;0;0;25;0;0;0;0;0;fresh;
+144;Nicky;Nicky;UM;4;5;3;GD;0;0;30;38;0;0;49;0;0;0;2;1;fresh;
+145;Nicky;Nicky;RE;3;2;1;CO;0;20;0;19;0;0;45;0;0;0;2;1;fresh;
+146;Nicky;Nicky;MA;1;1;4;GD;16;2;21;6;0;0;54;0;0;0;0;0;brown;black larvae (20ish)
+147;Nicky;Nicky;MA;1;3;4;CO;0;6;0;14;0;0;35;0;0;0;0;22;brown;black larvae (5ish)
+148;Gabriella;Gabriella;KA;1;2;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+149;Gabriella;Gabriella;KA;7;2;2;CO;0;2;0;5;0;0;4;0;0;0;0;0;fresh;
+150;Gabriella;Gabriella;UM;3;1;3;CO;0;9;0;3;0;0;12;10;0;0;0;0;fresh;
+151;Gabriella;Gabriella;UM;3;2;3;CO;0;7;0;14;0;0;24;0;0;0;0;0;fresh;black larvae (5ish)
+152;Nicky;Nicky;RE;3;2;3;CO;0;16;0;12;0;0;40;0;0;0;2;1;fresh;
+153;Nicky;Nicky;RE;2;1;4;CO;0;15;0;19;0;0;39;0;0;0;6;0;fresh;
+154;Nicky;Nicky;UM;4;2;2;GD;27;1;19;0;0;0;47;0;0;0;2;1;fresh;
+155;Nicky;Nicky;UM;1;4;5;GD;11;3;19;3;0;0;45;0;0;0;4;0;brown;black larvae (20ish)
+156;Nicky;Nicky;UM;3;1;5;CO;0;12;0;13;0;0;30;0;0;0;0;0;fresh;black larvae (1ish)
+157;Nicky;Nicky;MA;4;?;2;CO;0;24;0;25;0;0;56;0;0;0;2;0;fresh;
+158;Nicky;Nicky;MA;1;3;1;CO;0;11;0;20;0;0;52;0;0;0;4;0;brown;black larvae (30ish)
+159;Nicky;Nicky;KA;7;2;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+160;Nicky;Nicky;UM;4;2;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+161;Nicky;Nicky;RE;1;5;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+162;Nicky;Nicky;MU;4;1;5;CO;0;3;0;7;0;0;10;0;0;0;0;0;fresh;
+163;Nicky;Nicky;UM;4;2;4;GD;6;2;12;2;0;0;16;0;0;0;0;0;fresh;
+164;Nicky;Nicky;KA;7;1;4;CO;0;28;0;18;0;0;54;0;0;0;3;0;fresh;
+165;Nicky;Nicky;MU;3;3;4;GD;18;6;32;4;0;0;46;0;0;0;8;0;fresh;
+166;Nicky;Nicky;MA;7;3;2;CO;0;11;0;19;0;0;38;0;0;0;5;0;fresh;
+167;Nicky;Nicky;MU;6;2;2;CO;0;7;0;2;0;0;35;16;0;0;0;0;brown;black larvae (30ish)
+168;Nicky;Nicky;RE;1;1;2;GD;16;4;31;6;0;0;39;0;0;0;6;0;fresh;
+169;Nicky;Nicky;KA;7;1;1;CO;0;27;0;23;0;0;48;0;0;0;2;0;brown;black larvae (10ish)
+170;Nicky;Nicky;MU;4;1;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+171;Nicky;Nicky;AK;3;2;3;CO;0;17;0;10;0;0;31;0;0;0;1;0;fresh;
+172;Nicky;Nicky;UM;4;2;1;GD;21;3;22;6;0;0;51;0;0;0;2;0;fresh;
+173;Nicky;Nicky;MA;4;2;3;CO;0;25;0;19;0;0;56;0;0;0;8;0;fresh;
+174;Nicky;Nicky;UM;3;1;4;CO;0;15;0;25;0;0;57;0;0;0;2;0;fresh;
+175;Nicky;Nicky;RE;4;5;2;GD;16;1;13;2;0;0;36;0;0;0;0;0;brown;black larvae (10ish)
+176;Nicky;Nicky;KA;1;2;5;CO;0;15;0;15;0;0;34;0;0;0;0;0;fresh;
+177;Nicky;Nicky;KA;3;3;1;CO;0;28;0;34;0;0;65;0;0;0;1;0;brown;black larvae (1ish)
+178;Nicky;Nicky;MA;7;3;4;CO;0;18;0;18;0;0;49;0;0;0;0;0;fresh;black larvae (1ish)
+179;Nicky;Nicky;KA;7;2;3;CO;0;23;0;28;0;0;38;0;0;0;4;0;fresh;black larvae (20ish)
+180;Nicky;Nicky;AK;1;4;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+181;Nicky;Nicky;UM;4;3;3;CO;0;7;0;1;0;0;23;10;0;0;0;0;fresh;
+182;Nicky;Nicky;RE;1;4;4;CO;0;17;0;18;0;0;49;0;0;0;2;0;fresh;
+183;Nicky;Nicky;KA;7;1;5;CO;0;8;0;10;0;0;24;0;0;0;0;0;fresh;
+184;Nicky;Nicky;MA;4;1;4;CO;0;25;0;27;0;0;66;0;0;0;1;1;fresh;
+185;Nicky;Nicky;RE;3;2;2;CO;0;15;0;11;0;0;30;0;0;0;1;0;fresh;
+186;Nicky;Nicky;UM;3;1;1;CO;0;11;0;10;0;0;15;0;0;0;0;0;fresh;
+187;Nicky;Nicky;MA;4;1;5;CO;0;23;0;18;0;0;56;0;0;0;1;0;fresh;
+188;Nicky;Nicky;KA;1;2;1;CO;0;25;0;16;0;0;39;0;0;0;0;1;fresh;
+189;Nicky;Nicky;MA;7;4;3;CO;0;19;0;27;0;0;54;0;0;0;1;0;brown;black larvae (10ish)
+190;Nicky;Nicky;RE;1;4;5;CO;0;12;0;6;0;0;34;23;0;0;0;0;fresh;
+191;Nicky;Nicky;AK;3;1;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+192;Nicky;Nicky;MU;4;2;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+193;Nicky;Nicky;KA;7;3;3;CO;0;2;0;0;0;0;5;0;0;0;0;0;fresh;
+194;Nicky;Nicky;RE;1;4;3;CO;0;12;0;4;0;0;19;0;0;0;0;1;fresh;
+195;Nicky;Nicky;KA;7;3;2;CO;0;2;0;1;0;0;8;0;0;0;0;3;fresh;
+196;Nicky;Nicky;UM;1;4;3;CO;0;4;0;7;0;0;6;0;0;0;0;0;fresh;
+197;Nicky;Nicky;MU;4;4;3;GD;16;1;11;2;0;0;21;0;0;0;0;0;fresh;
+198;Nicky;Nicky;MU;4;2;4;CO;0;17;0;17;0;0;38;0;0;0;0;0;fresh;
+199;Nicky;Nicky;AK;3;2;4;CO;0;8;0;6;0;0;12;0;0;0;0;0;fresh;
+200;Nicky;Nicky;MA;5;2;1;CO;0;24;0;25;0;0;58;0;0;0;6;0;brown;black larvae (5ish)
+201;Nicky;Nicky;AK;3;1;2;CO;0;23;0;21;0;0;54;0;0;0;0;0;fresh;
+202;Nicky;Nicky;KA;7;1;3;CO;0;38;0;27;0;0;51;0;0;0;2;0;fresh;
+203;Nicky;Nicky;KA;7;4;4;GD;15;3;30;1;0;0;47;0;0;0;9;0;fresh;
+204;Gabriella;Gabriella;MU;4;4;3;CO;0;17;0;18;0;0;40;0;0;0;1;0;fresh;
+205;Gabriella;Gabriella;UM;4;3;4;GD;3;2;6;1;0;0;20;0;0;0;0;0;fresh;
+206;Gabriella;Gabriella;KA;7;4;2;GD;10;3;7;6;0;0;32;0;0;0;0;0;fresh;
+207;Gabriella;Gabriella;MA;1;1;1;GD;15;2;14;2;0;0;44;0;0;0;8;0;fresh;
+208;Gabriella;Gabriella;AK;2;2;3;GD;10;0;14;6;0;0;28;0;0;0;1;0;fresh;
+209;Gabriella;Gabriella;MU;6;2;3;CO;0;18;0;17;0;0;38;0;0;0;2;0;fresh;
+210;Gabriella;Gabriella;UM;6;2;3;CO;0;2;0;31;0;0;38;0;0;0;0;0;fresh;
+211;Gabriella;Gabriella;KA;4;3;4;CO;0;32;0;33;0;0;71;0;0;0;6;0;fresh/brownish;
+212;Gabriella;Gabriella;UM;6;2;5;CO;0;30;0;33;0;0;71;0;0;0;2;0;fresh/brownish;
+213;Gabriella;Gabriella;KA;1;4;4;CO;0;13;0;20;0;0;23;0;0;0;0;1;fresh;
+214;Gabriella;Gabriella;UM;6;3;5;GD;0;7;0;13;0;0;18;0;0;0;14;15;brown;black larvae (20ish)
+215;Gabriella;Gabriella;MU;6;2;4;CO;0;2;0;8;0;0;19;0;0;0;0;0;fresh;
+216;Gabriella;Gabriella;MA;4;4;3;CO;0;7;0;7;0;0;18;0;9;0;9;0;fresh;black larvae (10ish)
+217;Nicky;Nicky;MU;6;2;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+218;Nicky;Nicky;UM;3;5;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+219;Nicky;Nicky;MU;4;2;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+220;Nicky;Nicky;MA;7;3;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+221;Nicky;Nicky;UM;4;5;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+222;Nicky;Nicky;MU;4;4;4;CO;0;10;0;13;0;0;23;0;0;0;0;0;fresh;
+223;Nicky;Nicky;AK;2;2;1;GD;7;1;6;1;0;0;23;0;0;0;0;0;fresh;
+224;Nicky;Nicky;RE;1;4;2;CO;0;23;0;35;0;0;54;0;0;0;4;0;fresh;
+225;Nicky;Nicky;MU;4;1;3;CO;0;8;0;6;0;0;13;0;0;0;0;3;fresh;
+226;Nicky;Nicky;MA;7;3;3;CO;0;25;0;30;0;0;40;0;0;0;0;0;fresh;
+227;Nicky;Nicky;AK;4;1;1;CO;0;29;0;33;0;0;65;0;0;0;4;0;brown;black larvae (1ish)
+228;Nicky;Nicky;UM;4;3;5;CO;0;36;0;25;0;0;51;0;0;0;0;0;fresh;
+229;Nicky;Nicky;MA;5;2;4;CO;0;14;0;20;0;0;28;0;0;0;0;0;fresh;black larvae (5ish)
+230;Nicky;Nicky;MU;5;2;2;GD;0;10;0;14;0;0;26;0;0;0;5;26;brown;black larvae (20ish)
+231;Nicky;Nicky;AK;3;2;1;CO;0;6;0;3;0;0;22;0;0;0;1;0;brown;black larvae (10ish)
+232;Nicky;Nicky;RE;6;5;3;GD;9;7;7;22;0;0;52;0;0;0;0;1;brown;black larvae (5ish)
+233;Nicky;Nicky;KA;3;3;2;GD;23;1;14;1;0;0;46;0;0;0;3;0;fresh;
+234;Nicky;Nicky;RE;2;1;3;CO;0;23;0;20;0;0;50;0;0;0;1;0;brown;black larvae (10ish)
+235;Nicky;Nicky;KA;3;3;2;CO;0;19;0;19;0;0;41;0;0;0;0;0;fresh;
+236;Nicky;Nicky;MU;5;4;4;GD;22;1;14;4;0;0;44;0;0;0;6;0;brown;black larvae (1ish)
+237;Nicky;Nicky;MA;7;3;1;CO;0;16;0;21;0;0;31;0;0;0;1;0;fresh;
+238;Nicky;Nicky;KA;7;2;2;GD;27;2;18;2;0;0;52;0;0;0;1;0;fresh;
+239;Nicky;Nicky;MA;1;3;2;CO;0;8;0;21;0;0;50;0;0;0;0;9;brown;
+240;Nicky;Nicky;MA;4;1;1;CO;0;40;0;27;0;0;57;0;0;0;0;4;brown;
+241;Nicky;Nicky;MA;1;3;3;CO;0;5;0;13;0;0;34;0;0;0;0;25;brown;
+242;Nicky;Nicky;KA;4;1;1;GD;10;1;14;1;0;0;29;0;0;0;6;0;fresh;
+243;Nicky;Nicky;MU;5;2;1;GD;10;1;18;1;0;0;26;0;0;0;0;0;fresh;black larvae (10ish)
+244;Nicky;Nicky;MU;1;4;1;CO;0;16;0;23;0;0;41;0;0;0;0;0;fresh;
+245;Nicky;Nicky;MU;5;6;2;GD;11;3;23;6;0;0;48;0;0;0;1;1;fresh;black larvae (5ish)
+246;Nicky;Nicky;AK;4;1;5;GD;11;1;19;3;0;0;34;0;0;0;1;0;fresh;
+247;Nicky;Nicky;MA;4;4;2;GD;1;1;6;3;0;0;9;0;0;0;0;0;fresh;
+248;Nicky;Nicky;AK;2;1;2;GD;18;1;18;1;0;0;28;0;0;0;1;0;fresh;
+249;Nicky;Nicky;AK;2;6;1;GD;17;1;17;2;0;0;40;0;0;0;0;1;fresh;
+250;Nicky;Nicky;MU;5;4;5;GD;22;2;27;3;0;0;53;0;0;0;7;1;fresh;black larvae (1ish)
+251;Nicky;Nicky;MU;4;6;3;GD;10;1;19;1;0;0;33;0;0;0;1;1;fresh;
+252;Nicky;Nicky;RE;1;1;5;GD;19;1;15;5;0;0;32;0;0;0;1;2;fresh;
+253;Nicky;Nicky;RE;3;2;3;GD;11;0;6;0;0;0;19;0;0;0;1;0;fresh;
+254;Nicky;Nicky;AK;1;6;3;GD;10;2;12;3;0;0;19;0;0;0;0;0;fresh;
+255;Nicky;Nicky;KA;7;6;1;GD;19;6;11;2;0;0;31;0;0;0;1;0;fresh;
+256;Nicky;Nicky;KA;2;1;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+257;Nicky;Nicky;MU;6;6;4;GD;12;3;16;2;0;0;45;0;0;0;5;0;fresh;
+258;Nicky;Nicky;AK;4;6;1;GD;25;0;29;1;0;0;49;0;0;0;3;1;brown;black larvae (1ish)
+259;Nicky;Nicky;UM;5;6;2;GD;11;1;8;1;0;0;29;0;0;0;1;1;fresh;
+260;Nicky;Nicky;UM;1;1;3;GD;16;3;25;3;0;0;38;0;0;0;1;0;fresh;black larvae (1ish)
+261;Nicky;Nicky;MU;3;4;5;GD;15;0;24;1;0;0;38;0;0;0;0;0;fresh;
+262;Nicky;Nicky;RE;6;6;1;GD;0;0;21;1;0;0;24;0;0;0;6;1;fresh;
+263;Nicky;Nicky;AK;4;5;4;GD;14;3;13;0;0;0;23;0;0;0;1;0;fresh;
+264;Nicky;Nicky;RE;1;6;1;GD;0;29;0;25;0;0;59;0;0;0;6;4;fresh;
+265;Nicky;Nicky;KA;2;6;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+266;Nicky;Nicky;AK;4;5;2;GD;7;2;7;1;0;0;21;0;0;0;2;0;fresh;
+267;Nicky;Nicky;AK;5;6;4;GD;0;5;0;4;0;0;9;0;0;0;0;0;fresh;
+268;Nicky;Nicky;UM;6;5;2;GD;7;1;23;3;0;0;46;0;0;0;1;0;fresh;
+269;Nicky;Nicky;UM;4;2;5;GD;22;0;15;3;0;0;53;0;0;0;3;0;fresh;
+270;Nicky;Nicky;MU;6;5;5;GD;10;0;13;3;0;0;39;0;0;0;3;1;brown;black larvae (10ish)
+271;Nicky;Nicky;KA;4;6;4;GD;12;0;14;2;0;0;24;0;0;0;0;1;brown;black larvae (20ish)
+272;Nicky;Nicky;MA;7;4;4;GD;4;0;3;0;0;0;7;0;0;0;0;0;fresh;
+273;Nicky;Nicky;AK;4;1;4;GD;5;0;9;0;0;0;18;0;0;0;1;0;fresh;
+274;Nicky;Nicky;UM;6;4;4;GD;19;4;26;5;0;0;45;0;0;0;1;0;fresh;
+275;Nicky;Nicky;AK;4;4;5;GD;10;3;9;1;0;0;31;0;0;0;0;0;fresh;
+276;Nicky;Nicky;KA;2;3;3;GD;17;2;26;6;0;0;51;0;0;0;4;0;fresh;
+277;Nicky;Nicky;RE;6;4;1;GD;11;1;9;2;0;0;53;0;0;0;7;0;brown;black larvae (1ish)
+278;Nicky;Nicky;MA;6;3;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+279;Nicky;Nicky;MU;1;3;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+280;Nicky;Nicky;AK;4;3;4;GD;5;2;4;0;0;0;10;0;0;0;0;1;fresh;
+281;Nicky;Nicky;AK;5;6;5;GD;8;2;7;1;0;0;37;0;0;0;0;0;fresh;
+282;Nicky;Nicky;MU;5;2;4;GD;3;0;4;1;0;0;2;0;0;0;0;0;fresh;
+283;Nicky;Nicky;UM;1;5;4;GD;16;0;12;0;0;0;20;0;0;0;0;0;fresh;
+284;Nicky;Nicky;MU;6;5;3;GD;15;4;8;1;0;0;31;0;0;0;0;0;fresh;
+285;Nicky;Nicky;MU;4;1;4;GD;7;1;3;2;0;0;20;0;0;0;1;0;fresh;
+286;Nicky;Nicky;MU;1;6;5;GD;19;0;20;0;0;0;42;0;0;0;5;0;fresh;
+287;Nicky;Nicky;AK;2;2;5;GD;13;8;16;11;0;0;56;0;0;0;0;0;fresh;
+288;;Nicky;MU;1;6;3;GD;;;;;;;;;;;2;1;fresh;
+289;;Nicky;KA;3;3;3;CO;;;;;;;;;;;0;0;fresh;
+290;;Nicky;UM;4;5;2;CO;;;;;;;;;;;4;0;brown;
+291;Nicky;Nicky;KA;3;3;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+292;;Nicky;KA;4;4;3;CO;;;;;;;;;;;1;0;fresh;
+293;;Nicky;UM;5;4;4;CO;;;;;;;;;;;0;21;brown;
+294;Nicky;Nicky;KA;2;4;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+295;;Nicky;MA;4;6;3;CO;;;;;;;;;;;0;13;fresh;
+296;;Nicky;MU;5;5;2;CO;;;;;;;;;;;2;1;fresh;
+297;;Nicky;AK;1;1;5;CO;;;;;;;;;;;0;0;fresh;
+298;;Nicky;UM;6;5;1;CO;;;;;;;;;;;0;0;fresh;
+299;;Nicky;UM;6;2;4;CO;;;;;;;;;;;0;0;fresh;
+300;;Nicky;RE;1;4;1;CO;;;;;;;;;;;0;1;fresh;
+301;;Nicky;KA;3;4;4;CO;;;;;;;;;;;1;0;fresh;
+302;;Nicky;KA;1;4;3;CO;;;;;;;;;;;4;0;fresh;
+303;;Nicky;UM;4;3;2;CO;;;;;;;;;;;0;6;brown;
+304;;Nicky;KA;4;3;1;CO;;;;;;;;;;;1;0;fresh;
+305;;Nicky;KA;4;6;3;CO;;;;;;;;;;;0;9;brown;
+306;;Nicky;AK;1;5;5;CO;;;;;;;;;;;3;0;fresh;
+307;;Nicky;AK;2;4;5;CO;;;;;;;;;;;0;8;fresh;
+308;;Nicky;UM;6;2;2;CO;;;;;;;;;;;0;0;fresh;
+309;;Nicky;MU;1;4;3;CO;;;;;;;;;;;0;1;fresh;
+310;;Nicky;MU;4;2;2;CO;;;;;;;;;;;0;1;fresh;
+311;;Nicky;AK;4;4;1;CO;;;;;;;;;;;0;0;brown;
+312;;Nicky;KA;7;2;1;CO;;;;;;;;;;;3;0;fresh;
+313;;Nicky;RE;1;5;3;CO;;;;;;;;;;;1;0;fresh;
+314;Nicky;Nicky;AK;4;6;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+315;Nicky;Nicky;RE;6;4;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+316;Nicky;Nicky;KA;3;4;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+317;;Nicky;MA;4;6;5;CO;;;;;;;;;;;0;0;fresh;
+318;;Nicky;MA;7;4;1;CO;;;;;;;;;;;1;0;fresh;
+319;;Nicky;KA;2;4;1;CO;;;;;;;;;;;0;0;fresh;
+320;;Nicky;UM;4;3;1;CO;;;;;;;;;;;0;1;fresh;
+321;;Nicky;MU;6;6;1;CO;;;;;;;;;;;0;0;fresh;
+322;;Nicky;RE;4;5;4;CO;;;;;;;;;;;2;0;fresh;
+323;;Nicky;AK;1;5;4;CO;;;;;;;;;;;0;0;fresh;
+324;;Nicky;RE;4;5;1;CO;;;;;;;;;;;0;0;fresh;
+325;;Nicky;UM;1;5;3;CO;;;;;;;;;;;4;0;fresh;
+326;;Nicky;MU;5;5;1;CO;;;;;;;;;;;2;0;fresh;
+327;;Nicky;UM;4;5;5;CO;;;;;;;;;;;6;0;fresh;
+328;;Nicky;KA;1;4;1;CO;;;;;;;;;;;0;0;fresh;
+329;;Nicky;RE;4;5;5;CO;;;;;;;;;;;1;0;fresh;
+330;;Nicky;MA;6;5;1;CO;;;;;;;;;;;0;0;fresh;
+331;;Nicky;KA;4;6;1;CO;;;;;;;;;;;1;15;fresh;
+332;;Nicky;KA;1;1;5;CO;;;;;;;;;;;0;0;fresh;
+333;;Nicky;AK;3;4;4;CO;;;;;;;;;;;2;0;fresh;
+334;;Nicky;MA;1;3;5;CO;;;;;;;;;;;0;0;fresh;
+335;;Nicky;MA;5;2;2;CO;;;;;;;;;;;0;1;fresh;
+336;;Nicky;KA;3;2;3;CO;;;;;;;;;;;0;1;fresh;
+337;;Nicky;MA;4;4;5;CO;;;;;;;;;;;0;1;brown;
+338;;Nicky;UM;6;5;5;CO;;;;;;;;;;;1;1;fresh;
+339;;Nicky;AK;4;4;5;CO;;;;;;;;;;;3;0;fresh;
+340;;Nicky;KA;4;4;2;CO;;;;;;;;;;;0;1;fresh;black larvae (1ish)
+341;;Nicky;MU;4;5;4;CO;;;;;;;;;;;1;0;fresh;
+342;;Nicky;MU;4;6;5;CO;;;;;;;;;;;3;0;fresh;
+343;;Nicky;MA;7;6;5;CO;;;;;;;;;;;1;0;fresh;black larvae (10ish)
+344;;Nicky;UM;6;4;1;CO;;;;;;;;;;;0;0;fresh;
+345;;Nicky;MA;1;4;1;CO;;;;;;;;;;;0;22;brown;
+346;;Nicky;KA;4;3;5;CO;;;;;;;;;;;1;0;fresh;
+347;;Nicky;AK;3;3;4;CO;;;;;;;;;;;1;0;fresh;
+348;;Nicky;MA;5;4;5;CO;;;;;;;;;;;1;0;fresh;
+349;Nicky;Nicky;UM;4;1;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+350;Nicky;Nicky;KA;2;5;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+351;;Nicky;AK;4;6;2;CO;;;;;;;;;;;4;0;fresh;
+352;;Nicky;MU;3;4;2;CO;;;;;;;;;;;5;0;fresh;
+353;;Nicky;UM;4;2;4;CO;;;;;;;;;;;0;0;fresh;
+354;;Nicky;MU;5;4;1;CO;;;;;;;;;;;0;0;fresh;
+355;;Nicky;AK;3;1;5;CO;;;;;;;;;;;2;0;fresh;
+356;;Nicky;MA;1;5;5;CO;;;;;;;;;;;3;0;fresh;
+357;;Nicky;UM;5;5;2;CO;;;;;;;;;;;1;0;fresh;
+358;;Nicky;KA;2;4;2;CO;;;;;;;;;;;1;13;brown;
+359;;Nicky;KA;1;4;2;CO;;;;;;;;;;;0;8;fresh;
+360;;Nicky;RE;4;5;2;CO;;;;;;;;;;;0;1;fresh;
+361;;Nicky;MU;4;4;2;CO;;;;;;;;;;;2;0;fresh;
+362;;Nicky;RE;4;3;5;GD;;;;;;;;;;;0;0;fresh;
+363;;Nicky;KA;2;1;5;CO;;;;;;;;;;;0;1;fresh;
+364;;Nicky;MU;4;5;1;GD;;;;;;;;;;;6;1;fresh;
+365;;Nicky;KA;1;5;4;GD;;;;;;;;;;;2;0;fresh;
+366;;Nicky;UM;6;6;4;GD;;;;;;;;;;;3;0;fresh;
+367;;Nicky;MA;1;2;2;CO;;;;;;;;;;;0;0;fresh;
+368;;Nicky;UM;5;6;3;GD;;;;;;;;;;;4;0;fresh;black larvae (10ish)
+369;;Nicky;MA;5;1;1;GD;;;;;;;;;;;4;0;fresh;black larvae (5ish)
+370;;Nicky;MU;3;5;1;GD;;;;;;;;;;;0;0;fresh;
+371;;Nicky;MU;5;2;4;CO;;;;;;;;;;;1;0;fresh;black larvae (5ish)
+372;Nicky;Nicky;MA;6;3;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+373;Nicky;Nicky;KA;1;3;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+374;;Nicky;RE;1;3;2;GD;;;;;;;;;;;7;0;fresh;
+375;;Nicky;UM;1;1;4;CO;;;;;;;;;;;2;0;fresh;
+376;;Nicky;KA;7;4;1;GD;;;;;;;;;;;0;40;brown;
+377;;Nicky;RE;4;2;4;CO;;;;;;;;;;;0;1;fresh;
+378;;Nicky;MU;6;4;5;CO;;;;;;;;;;;1;0;fresh;
+379;;Nicky;KA;1;1;3;CO;;;;;;;;;;;0;0;fresh;
+380;;Nicky;MA;7;1;4;GD;;;;;;;;;;;3;0;fresh;
+381;;Nicky;MA;7;2;1;GD;;;;;;;;;;;5;0;fresh;
+382;;Nicky;MA;1;1;2;GD;;;;;;;;;;;2;0;fresh;
+383;;Nicky;AK;5;6;1;GD;;;;;;;;;;;2;0;fresh;
+384;;Nicky;KA;7;4;1;CO;;;;;;;;;;;1;0;fresh;
+385;;Nicky;MU;3;5;4;GD;;;;;;;;;;;8;1;fresh;
+386;;Nicky;RE;6;2;2;GD;;;;;;;;;;;0;0;fresh;
+387;;Nicky;RE;6;2;5;GD;;;;;;;;;;;0;0;fresh;
+388;;Nicky;UM;6;3;1;GD;;;;;;;;;;;0;0;fresh;
+389;;Nicky;MU;5;4;3;GD;;;;;;;;;;;0;0;fresh;
+390;;Nicky;KA;1;5;5;GD;;;;;;;;;;;1;0;fresh;
+391;;Nicky;UM;3;2;5;GD;;;;;;;;;;;1;1;fresh;
+392;;Nicky;MU;4;4;4;GD;;;;;;;;;;;4;0;fresh;
+393;Nicky;Nicky;KA;1;5;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+394;Nicky;Nicky;MA;7;2;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+395;;Nicky;MU;1;2;4;CO;;;;;;;;;;;2;0;fresh;
+396;;Fleur;MU;4;4;1;CO;;;;;;;;;;;0;0;fresh;0
+397;;Fleur;UM;4;6;3;CO;;;;;;;;;;;1;0;fresh;0
+398;;Fleur;AK;5;6;2;CO;;;;;;;;;;;0;0;fresh;0
+399;;Fleur;MA;5;3;2;CO;;;;;;;;;;;1;0;fresh;0
+400;;Fleur;UM;3;5;4;CO;;;;;;;;;;;0;0;fresh;0
+401;;Fleur;KA;2;4;5;CO;;;;;;;;;;;0;2;fresh;10
+402;;Fleur;UM;3;6;4;CO;;;;;;;;;;;1;0;fresh;0
+403;;Fleur;MU;4;6;1;CO;;;;;;;;;;;0;0;fresh;0
+404;;Fleur;UM;1;6;1;CO;;;;;;;;;;;1;0;fresh;5
+405;;Fleur;MA;1;4;4;CO;;;;;;;;;;;7;0;fresh;0
+406;;Fleur;MU;5;5;4;CO;;;;;;;;;;;0;22;brown;0
+407;;Fleur;RE;1;3;5;GD;;;;;;;;;;;6;0;fresh;0
+408;;Fleur;UM;5;1;5;GD;;;;;;;;;;;0;0;fresh;0
+409;;Fleur;UM;5;5;3;CO;;;;;;;;;;;21;3;fresh;0
+410;;Fleur;AK;2;1;1;CO;;;;;;;;;;;1;0;fresh;0
+411;;Fleur;AK;1;5;2;GD;;;;;;;;;;;1;0;fresh;0
+412;;Fleur;RE;1;5;5;GD;;;;;;;;;;;8;0;fresh;0
+413;;Fleur;AK;4;1;3;CO;;;;;;;;;;;0;0;fresh;0
+414;;Fleur;KA;1;5;3;CO;;;;;;;;;;;2;0;fresh;0
+415;;Fleur;MU;1;2;3;GD;;;;;;;;;;;1;0;fresh;1
+416;;Fleur;KA;2;1;3;CO;;;;;;;;;;;5;1;fresh;10
+417;;Fleur;AK;1;3;1;GD;;;;;;;;;;;1;0;fresh;0
+418;;Fleur;MA;7;1;2;GD;;;;;;;;;;;2;0;fresh;20
+419;;Fleur;MU;1;5;7;CO;;;;;;;;;;;1;1;fresh;0
+420;;Fleur;RE;6;3;1;CO;;;;;;;;;;;0;0;fresh;30
+421;;Fleur;AK;5;4;4;GD;;;;;;;;;;;2;0;fresh;0
+422;;Fleur;RE;1;3;4;GD;;;;;;;;;;;9;0;fresh;0
+423;;Fleur;KA;4;4;3;GD;;;;;;;;;;;1;0;fresh;20
+424;Fleur;Fleur;UM;4;5;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+425;;Fleur;MA;6;1;3;GD;;;;;;;;;;;0;10;fresh;30
+426;;Fleur;UM;6;1;2;CO;;;;;;;;;;;1;0;fresh;20
+427;;Fleur;UM;6;6;5;GD;;;;;;;;;;;0;1;fresh;0
+428;;Fleur;UM;6;6;2;GD;;;;;;;;;;;0;0;fresh;0
+429;;Fleur;MA;5;3;1;GD;;;;;;;;;;;0;1;fresh;0
+430;;Fleur;AK;3;3;1;CO;;;;;;;;;;;1;0;fresh;0
+431;;Fleur;MU;1;3;3;GD;;;;;;;;;;;0;0;fresh;0
+432;;Fleur;AK;5;2;1;CO;;;;;;;;;;;2;0;fresh;0
+433;;Fleur;RE;2;4;5;GD;;;;;;;;;;;1;0;fresh;0
+434;;Fleur;UM;3;2;4;GD;;;;;;;;;;;3;1;fresh;0
+435;;Fleur;MA;6;1;4;GD;;;;;;;;;;;2;0;fresh;0
+436;;Fleur;AK;1;3;3;GD;;;;;;;;;;;1;0;fresh;0
+437;;Fleur;MU;4;2;3;GD;;;;;;;;;;;3;0;fresh;0
+438;;Fleur;AK;1;3;2;GD;;;;;;;;;;;2;0;fresh;0
+439;;Fleur;MU;1;5;1;GD;;;;;;;;;;;4;0;fresh;0
+440;;Fleur;KA;2;5;2;GD;;;;;;;;;;;1;0;fresh;0
+441;;Fleur;MA;5;1;5;GD;;;;;;;;;;;0;0;fresh;0
+442;;Fleur;MA;7;1;1;GD;;;;;;;;;;;4;0;fresh;0
+443;;Fleur;RE;3;1;3;CO;;;;;;;;;;;0;1;fresh;1
+444;;Fleur;UM;5;3;1;GD;;;;;;;;;;;0;0;fresh;20
+445;;Fleur;RE;4;1;2;GD;;;;;;;;;;;3;0;fresh;0
+446;;Fleur;KA;7;3;5;GD;;;;;;;;;;;1;1;fresh;0
+447;;Fleur;UM;4;6;4;GD;;;;;;;;;;;0;0;fresh;0
+448;;Fleur;AK;5;2;3;GD;;;;;;;;;;;5;0;fresh;0
+449;;Fleur;RE;1;4;3;GD;;;;;;;;;;;0;2;fresh;0
+450;;Fleur;KA;1;1;3;GD;;;;;;;;;;;3;0;fresh;0
+451;Fleur;Fleur;AK;3;6;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+452;;Fleur;KA;2;4;5;GD;;;;;;;;;;;1;0;fresh;0
+453;Fleur;Fleur;KA;3;2;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+454;;Fleur;MA;4;6;1;GD;;;;;;;;;;;1;1;fresh;5
+455;;Fleur;MA;6;6;3;GD;;;;;;;;;;;3;0;fresh;0
+456;;Fleur;AK;3;1;3;CO;;;;;;;;;;;0;1;fresh;0
+457;;Fleur;RE;6;6;4;GD;;;;;;;;;;;0;0;fresh;0
+458;;Fleur;MA;4;6;2;GD;;;;;;;;;;;0;2;fresh;0
+459;;Fleur;MA;6;1;3;CO;;;;;;;;;;;1;0;fresh;0
+460;;Fleur;UM;4;2;3;CO;;;;;;;;;;;0;0;fresh;0
+461;;Fleur;UM;3;2;5;CO;;;;;;;;;;;2;0;fresh;0
+462;;Fleur;RE;6;3;2;CO;;;;;;;;;;;4;0;fresh;0
+463;;Fleur;RE;3;3;2;CO;;;;;;;;;;;0;0;fresh;0
+464;;Fleur;RE;2;1;3;GD;;;;;;;;;;;4;0;fresh;0
+465;;Fleur;UM;4;4;3;GD;;;;;;;;;;;0;1;fresh;0
+466;;Fleur;MA;5;1;3;GD;;;;;;;;;;;4;0;fresh;0
+467;;Fleur;MA;4;1;4;GD;;;;;;;;;;;0;0;fresh;0
+468;Fleur;Fleur;AK;1;6;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+469;;Fleur;KA;1;5;3;GD;;;;;;;;;;;1;0;fresh;5
+470;;Fleur;MA;7;6;2;GD;;;;;;;;;;;0;1;fresh;0
+471;;Fleur;MA;1;2;5;CO;;;;;;;;;;;2;0;fresh;0
+472;;Fleur;MU;3;1;5;CO;;;;;;;;;;;0;0;fresh;0
+473;;Fleur;KA;2;1;1;CO;;;;;;;;;;;4;0;fresh;0
+474;;Fleur;UM;1;2;1;GD;;;;;;;;;;;8;1;fresh;1
+475;;Fleur;AK;1;4;3;GD;;;;;;;;;;;1;0;fresh;5
+476;Fleur;Fleur;UM;1;1;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+477;;Fleur;MA;6;5;4;CO;;;;;;;;;;;4;0;fresh;0
+478;;Fleur;MU;4;5;2;GD;;;;;;;;;;;5;0;fresh;0
+479;;Fleur;KA;4;4;2;GD;;;;;;;;;;;0;0;fresh;0
+480;;Fleur;RE;6;1;2;CO;;;;;;;;;;;0;0;fresh;0
+481;;Fleur;KA;3;1;4;CO;;;;;;;;;;;0;0;fresh;0
+482;;Fleur;KA;1;5;1;GD;;;;;;;;;;;3;0;fresh;0
+483;;Fleur;RE;3;3;3;CO;;;;;;;;;;;2;0;fresh;0
+484;;Fleur;UM;3;5;4;GD;;;;;;;;;;;1;1;fresh;0
+485;;Fleur;KA;3;2;3;GD;;;;;;;;;;;0;0;fresh;0
+486;;Fleur;KA;3;1;5;GD;;;;;;;;;;;6;0;fresh;0
+487;;Fleur;MA;6;6;1;GD;;;;;;;;;;;0;0;fresh;0
+488;;Fleur;KA;4;1;4;GD;;;;;;;;;;;4;0;fresh;0
+489;;Fleur;RE;2;1;1;GD;;;;;;;;;;;5;0;fresh;0
+490;;Fleur;RE;6;1;3;CO;;;;;;;;;;;4;0;fresh;0
+491;;Fleur;UM;3;2;1;GD;;;;;;;;;;;1;0;fresh;0
+492;;Fleur;MA;4;3;3;GD;;;;;;;;;;;1;0;fresh;0
+493;;Fleur;MA;4;3;1;GD;;;;;;;;;;;1;0;fresh;0
+494;;Fleur;RE;1;3;3;GD;;;;;;;;;;;1;0;fresh;0
+495;;Fleur;MU;1;5;5;GD;;;;;;;;;;;1;1;fresh;0
+496;;Fleur;RE;6;1;5;CO;;;;;;;;;;;0;0;fresh;0
+497;;Fleur;RE;2;1;4;GD;;;;;;;;;;;0;0;fresh;0
+498;;Fleur;MA;5;3;4;GD;;;;;;;;;;;0;0;fresh;0
+499;;Fleur;AK;3;5;4;GD;;;;;;;;;;;0;0;fresh;0
+500;;Fleur;AK;2;5;3;GD;;;;;;;;;;;0;0;fresh;0
+501;;Fleur;UM;5;5;1;CO;;;;;;;;;;;0;0;fresh;0
+502;;Fleur;MU;5;2;2;CO;;;;;;;;;;;1;0;fresh;0
+503;;Fleur;MU;6;2;1;GD;;;;;;;;;;;5;0;fresh;0
+504;;Fleur;MA;1;1;2;CO;;;;;;;;;;;1;1;fresh;5
+505;;Fleur;MA;4;1;5;GD;;;;;;;;;;;7;0;fresh;0
+506;Fleur;Fleur;MA;7;3;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+507;;Fleur;AK;4;1;5;CO;;;;;;;;;;;0;0;fresh;0
+508;;Fleur;MU;4;5;4;GD;;;;;;;;;;;4;0;fresh;0
+509;;Fleur;MU;5;3;1;GD;;;;;;;;;;;0;0;fresh;0
+510;;Fleur;KA;3;4;3;GD;;;;;;;;;;;0;0;fresh;0
+511;Fleur;Fleur;UM;4;3;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+512;Fleur;Fleur;UM;4;3;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+513;;Fleur;AK;3;4;1;CO;;;;;;;;;;;0;0;fresh;0
+514;;Fleur;KA;3;5;1;GD;;;;;;;;;;;1;0;fresh;0
+515;;Fleur;KA;3;3;1;GD;;;;;;;;;;;6;0;fresh;0
+516;;Fleur;RE;1;4;4;GD;;;;;;;;;;;6;0;fresh;0
+517;;Fleur;KA;1;1;4;CO;;;;;;;;;;;0;0;fresh;5
+518;;Fleur;AK;3;1;4;CO;;;;;;;;;;;0;0;fresh;0
+519;;Fleur;UM;4;4;5;GD;;;;;;;;;;;2;0;fresh;0
+520;Fleur;Fleur;RE;6;3;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+521;;Fleur;AK;5;3;1;CO;;;;;;;;;;;0;0;fresh;0
+522;;Fleur;MU;6;1;3;GD;;;;;;;;;;;6;0;fresh;0
+523;;Fleur;KA;7;5;1;GD;;;;;;;;;;;6;0;fresh;0
+524;;Fleur;AK;1;4;4;GD;;;;;;;;;;;7;1;fresh;0
+525;;Fleur;RE;4;1;4;CO;;;;;;;;;;;1;0;fresh;0
+526;;Fleur;MU;1;4;4;GD;;;;;;;;;;;1;0;fresh;0
+527;;Fleur;UM;6;1;1;CO;;;;;;;;;;;0;0;fresh;0
+528;;Fleur;AK;3;5;1;GD;;;;;;;;;;;3;2;brown;0
+529;;Fleur;UM;4;5;3;CO;;;;;;;;;;;0;0;fresh;0
+530;;Fleur;RE;3;1;4;GD;;;;;;;;;;;3;0;fresh;0
+531;;Fleur;MU;5;6;3;GD;;;;;;;;;;;2;1;fresh;0
+532;;Fleur;KA;3;5;5;GD;;;;;;;;;;;4;0;fresh;0
+533;;Fleur;RE;4;2;5;GD;;;;;;;;;;;4;0;fresh;0
+534;;Fleur;UM;6;1;4;GD;;;;;;;;;;;4;0;fresh;0
+535;;Fleur;MA;1;2;5;GD;;;;;;;;;;;1;0;fresh;0
+536;;Fleur;UM;4;1;1;CO;;;;;;;;;;;7;1;fresh;0
+537;;Fleur;MA;6;6;4;GD;;;;;;;;;;;0;1;fresh;0
+538;;Fleur;KA;3;1;3;CO;;;;;;;;;;;0;0;fresh;0
+539;;Fleur;RE;2;1;2;GD;;;;;;;;;;;3;0;fresh;0
+540;Fleur;Fleur;KA;7;3;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+541;;Fleur;RE;1;1;2;CO;;;;;;;;;;;0;0;fresh;0
+542;;Fleur;UM;1;1;3;CO;;;;;;;;;;;0;6;fresh;1
+543;;Fleur;MA;1;2;3;GD;;;;;;;;;;;4;1;fresh;2
+544;;Fleur;MU;1;4;1;GD;;;;;;;;;;;1;0;fresh;0
+545;;Fleur;RE;6;6;2;GD;;;;;;;;;;;1;0;fresh;0
+546;;Fleur;MU;1;5;4;GD;;;;;;;;;;;2;1;fresh;0
+547;;Fleur;MU;5;2;1;CO;;;;;;;;;;;1;15;brown;5
+548;;Fleur;RE;4;1;3;CO;;;;;;;;;;;2;33;brown;15
+549;;Fleur;MA;6;3;4;GD;;;;;;;;;;;8;0;fresh;5
+550;;Fleur;MA;6;1;2;GD;;;;;;;;;;;0;21;brown;20
+551;;Fleur;AK;2;5;5;GD;;;;;;;;;;;0;0;fresh;0
+552;;Fleur;UM;5;1;2;CO;;;;;;;;;;;6;0;fresh;0
+553;;Fleur;AK;1;5;3;CO;;;;;;;;;;;5;1;fresh;0
+554;;Fleur;KA;3;4;1;GD;;;;;;;;;;;0;0;fresh;0
+555;;Fleur;UM;4;2;2;CO;;;;;;;;;;;2;0;fresh;0
+556;;Fleur;UM;5;3;3;GD;;;;;;;;;;;4;0;fresh;0
+557;;Fleur;MA;6;5;3;GD;;;;;;;;;;;2;1;fresh;0
+558;;Fleur;MU;1;4;5;GD;;;;;;;;;;;1;0;fresh;0
+559;;Fleur;AK;4;1;2;CO;;;;;;;;;;;0;3;fresh;0
+560;;Fleur;RE;3;1;4;CO;;;;;;;;;;;6;0;fresh;0
+561;;Fleur;KA;3;3;4;GD;;;;;;;;;;;7;0;fresh;0
+562;;Fleur;UM;3;2;4;CO;;;;;;;;;;;1;0;fresh;0
+563;;Fleur;AK;2;1;3;CO;;;;;;;;;;;0;0;fresh;0
+564;;Fleur;KA;2;3;3;CO;;;;;;;;;;;4;0;fresh;0
+565;;Fleur;KA;7;3;4;GD;;;;;;;;;;;0;0;fresh;0
+566;;Fleur;UM;5;5;2;GD;;;;;;;;;;;0;1;fresh;1
+567;;Fleur;UM;5;1;3;CO;;;;;;;;;;;1;7;brown;0
+568;;Fleur;MU;5;5;5;CO;;;;;;;;;;;4;0;fresh;0
+569;;Fleur;MA;4;1;3;GD;;;;;;;;;;;0;0;fresh;0
+570;;Fleur;MU;4;1;2;CO;;;;;;;;;;;1;0;fresh;5
+571;;Fleur;AK;4;4;2;CO;;;;;;;;;;;3;0;fresh;0
+572;;Fleur;UM;3;5;5;GD;;;;;;;;;;;1;1;fresh;0
+573;Fleur;Fleur;KA;3;3;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+574;Fleur;Fleur;AK;5;1;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+575;Fleur;Fleur;RE;1;4;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+576;Fleur;Fleur;MA;5;3;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+577;Fleur;Fleur;MU;4;6;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+578;;Fleur;MA;1;2;2;GD;;;;;;;;;;;0;18;brown;0
+579;;Fleur;KA;7;6;3;GD;;;;;;;;;;;2;0;fresh;0
+580;;Fleur;RE;3;4;2;GD;;;;;;;;;;;2;0;fresh;0
+581;;Fleur;AK;5;4;2;GD;;;;;;;;;;;7;0;fresh;0
+582;;Fleur;RE;1;1;4;CO;;;;;;;;;;;1;0;fresh;0
+583;;Fleur;MA;1;2;1;CO;;;;;;;;;;;5;1;fresh;0
+584;;Fleur;RE;2;4;3;GD;;;;;;;;;;;6;1;fresh;5
+585;;Fleur;UM;6;1;1;GD;;;;;;;;;;;1;0;fresh;0
+586;;Fleur;UM;5;4;3;GD;;;;;;;;;;;1;0;fresh;0
+587;;Fleur;MU;3;3;2;GD;;;;;;;;;;;1;0;fresh;0
+588;;Fleur;AK;2;1;3;GD;;;;;;;;;;;1;0;fresh;0
+589;;Fleur;KA;3;2;2;CO;;;;;;;;;;;1;0;fresh;0
+590;;Fleur;AK;4;5;3;GD;;;;;;;;;;;6;0;fresh;1
+591;;Fleur;RE;4;2;5;CO;;;;;;;;;;;4;0;fresh;5
+592;Fleur;Fleur;RE;6;3;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+593;Fleur;Fleur;KA;3;2;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+594;Fleur;Fleur;KA;1;5;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+595;;Fleur;KA;7;3;3;GD;;;;;;;;;;;1;0;fresh;0
+596;;Fleur;AK;2;4;1;CO;;;;;;;;;;;0;8;fresh;0
+597;;Fleur;UM;4;2;5;CO;;;;;;;;;;;4;0;fresh;0
+598;;Fleur;KA;7;4;2;CO;;;;;;;;;;;0;1;fresh;0
+599;;Fleur;AK;3;5;2;GD;;;;;;;;;;;13;0;fresh;0
+600;;Fleur;UM;4;3;2;GD;;;;;;;;;;;2;0;fresh;0
+601;;Fleur;KA;3;4;2;GD;;;;;;;;;;;7;0;fresh;0
+602;;Fleur;UM;1;4;1;GD;;;;;;;;;;;6;0;fresh;5
+603;;Fleur;MU;4;6;2;GD;;;;;;;;;;;0;1;fresh;0
+604;;Fleur;UM;6;3;3;GD;;;;;;;;;;;6;0;fresh;0
+605;;Fleur;AK;4;1;2;GD;;;;;;;;;;;5;0;fresh;0
+606;;Fleur;KA;7;5;2;GD;;;;;;;;;;;2;1;fresh;0
+607;;Fleur;KA;3;4;4;GD;;;;;;;;;;;1;0;fresh;0
+608;;Fleur;MA;1;3;5;GD;;;;;;;;;;;5;0;fresh;0
+609;;Fleur;RE;1;1;4;GD;;;;;;;;;;;5;1;fresh;0
+610;;Fleur;RE;3;5;2;GD;;;;;;;;;;;1;0;fresh;0
+611;;Fleur;KA;4;1;2;GD;;;;;;;;;;;0;0;fresh;0
+612;;Fleur;RE;1;1;1;GD;;;;;;;;;;;0;0;fresh;0
+613;;Fleur;KA;2;3;5;GD;;;;;;;;;;;1;1;fresh;0
+614;;Fleur;AK;1;2;2;GD;;;;;;;;;;;4;0;fresh;0
+615;;Fleur;RE;4;5;1;GD;;;;;;;;;;;3;2;fresh;0
+616;;Fleur;MU;5;6;4;GD;;;;;;;;;;;1;0;fresh;0
+617;Fleur;Fleur;MA;6;5;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;0
+618;;Fleur;AK;2;6;4;GD;;;;;;;;;;;0;2;fresh;0
+619;;Fleur;MA;7;2;4;GD;;;;;;;;;;;5;1;fresh;0
+620;;Fleur;MU;5;6;5;GD;;;;;;;;;;;1;0;fresh;1
+621;;Fleur;MA;6;6;5;GD;;;;;;;;;;;1;0;fresh;0
+622;;Fleur;KA;2;1;5;GD;;;;;;;;;;;1;0;fresh;20
+623;;Fleur;UM;1;2;4;GD;;;;;;;;;;;1;0;fresh;0
+624;;Fleur;MA;1;1;5;GD;;;;;;;;;;;3;0;fresh;0
+625;Fleur;Fleur;MU;1;3;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+626;;Fleur;MU;5;6;1;GD;;;;;;;;;;;1;0;fresh;0
+627;;Fleur;UM;3;4;5;GD;;;;;;;;;;;2;1;fresh;0
+628;;Fleur;MA;5;3;1;CO;;;;;;;;;;;0;0;fresh;0
+629;;Fleur;AK;5;4;5;CO;;;;;;;;;;;1;0;fresh;0
+630;;Fleur;MA;1;6;3;GD;;;;;;;;;;;4;1;fresh;0
+631;;Fleur;MA;5;6;5;CO;;;;;;;;;;;2;0;fresh;0
+632;;Fleur;MU;3;5;1;CO;;;;;;;;;;;4;0;fresh;0
+633;;Fleur;RE;1;2;4;CO;;;;;;;;;;;2;0;fresh;0
+634;;Fleur;MA;1;5;2;CO;;;;;;;;;;;0;6;brown;0
+635;;Fleur;MA;4;4;5;GD;;;;;;;;;;;0;0;fresh;5
+636;;Fleur;RE;3;5;5;CO;;;;;;;;;;;2;0;fresh;0
+637;;Fleur;AK;4;6;4;GD;;;;;;;;;;;0;0;fresh;0
+638;;Fleur;UM;5;6;1;CO;;;;;;;;;;;2;0;fresh;0
+639;;Fleur;MU;5;6;3;CO;;;;;;;;;;;0;0;fresh;0
+640;;Fleur;AK;4;5;5;CO;;;;;;;;;;;1;0;fresh;0
+641;;Fleur;UM;5;2;3;CO;;;;;;;;;;;1;19;brown;0
+642;;Fleur;MU;6;6;1;GD;;;;;;;;;;;0;0;fresh;0
+643;;Fleur;AK;2;5;5;CO;;;;;;;;;;;0;0;fresh;0
+644;;Fleur;AK;1;4;1;CO;;;;;;;;;;;0;0;fresh;0
+645;;Fleur;MU;4;6;2;CO;;;;;;;;;;;0;2;fresh;0
+646;;Fleur;AK;1;4;5;CO;;;;;;;;;;;5;3;fresh;0
+647;Fleur;Fleur;UM;5;2;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+648;;Fleur;UM;3;3;2;CO;;;;;;;;;;;0;1;fresh;0
+649;;Fleur;MU;4;6;3;CO;;;;;;;;;;;1;0;fresh;0
+650;;Fleur;RE;3;5;4;GD;;;;;;;;;;;7;1;fresh;0
+651;;Fleur;UM;4;4;2;CO;;;;;;;;;;;1;1;fresh;0
+652;;Fleur;MA;7;5;5;CO;;;;;;;;;;;1;0;fresh;0
+653;;Fleur;UM;5;4;1;GD;;;;;;;;;;;5;0;fresh;0
+654;;Fleur;KA;2;6;5;CO;;;;;;;;;;;0;1;fresh;0
+655;;Fleur;KA;2;5;3;CO;;;;;;;;;;;2;0;fresh;0
+656;;Fleur;AK;1;4;3;CO;;;;;;;;;;;0;0;fresh;0
+657;;Fleur;MA;1;6;4;GD;;;;;;;;;;;6;3;fresh;0
+658;;Fleur;MU;4;6;4;CO;;;;;;;;;;;1;1;fresh;0
+659;Fleur;Fleur;AK;4;3;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+660;;Fleur;RE;6;4;2;GD;;;;;;;;;;;16;4;fresh;0
+661;;Fleur;KA;3;3;3;GD;;;;;;;;;;;1;1;fresh;0
+662;;Fleur;AK;2;6;4;CO;;;;;;;;;;;0;0;fresh;0
+663;;Fleur;KA;2;3;2;CO;;;;;;;;;;;0;0;fresh;0
+664;;Fleur;UM;3;4;3;CO;;;;;;;;;;;1;0;fresh;0
+665;;Fleur;AK;2;2;4;CO;;;;;;;;;;;0;0;fresh;0
+666;;Fleur;KA;2;6;3;GD;;;;;;;;;;;4;0;fresh;0
+667;;Fleur;MU;6;5;1;CO;;;;;;;;;;;2;0;fresh;0
+668;;Fleur;MU;1;6;3;CO;;;;;;;;;;;1;0;fresh;0
+669;;Fleur;AK;4;3;3;CO;;;;;;;;;;;0;0;fresh;0
+670;;Fleur;UM;3;6;1;CO;;;;;;;;;;;1;0;fresh;0
+671;;Fleur;RE;1;2;1;CO;;;;;;;;;;;3;0;fresh;0
+672;;Fleur;AK;2;6;2;CO;;;;;;;;;;;2;0;fresh;0
+673;;Fleur;MA;6;6;3;CO;;;;;;;;;;;0;1;fresh;0
+674;;Fleur;AK;3;5;3;CO;;;;;;;;;;;1;1;fresh;0
+675;;Fleur;AK;5;3;1;GD;;;;;;;;;;;0;2;fresh;0
+676;;Fleur;UM;1;1;5;GD;;;;;;;;;;;7;1;fresh;10
+677;;Fleur;MU;4;5;3;CO;;;;;;;;;;;0;1;fresh;0
+678;;Fleur;UM;1;5;5;CO;;;;;;;;;;;5;0;fresh;0
+679;;Fleur;KA;3;5;1;CO;;;;;;;;;;;0;0;fresh;0
+680;;Fleur;KA;7;6;4;CO;;;;;;;;;;;0;1;fresh;0
+681;;Fleur;AK;4;3;2;CO;;;;;;;;;;;1;0;fresh;0
+682;;Fleur;UM;6;3;5;CO;;;;;;;;;;;1;0;fresh;0
+683;;Fleur;UM;3;6;2;CO;;;;;;;;;;;5;0;fresh;0
+684;;Fleur;RE;1;2;3;CO;;;;;;;;;;;7;0;fresh;0
+685;;Fleur;UM;3;3;3;CO;;;;;;;;;;;0;0;fresh;0
+686;;Fleur;UM;3;1;1;GD;;;;;;;;;;;3;0;fresh;0
+687;;Fleur;MU;4;5;5;CO;;;;;;;;;;;2;1;fresh;0
+688;;Fleur;UM;6;4;5;GD;;;;;;;;;;;8;0;fresh;0
+689;;Fleur;MA;5;5;5;CO;;;;;;;;;;;0;1;fresh;0
+690;;Fleur;MA;5;3;4;CO;;;;;;;;;;;0;0;fresh;0
+691;;Fleur;RE;3;3;4;GD;;;;;;;;;;;0;0;fresh;0
+692;;Fleur;KA;7;6;2;GD;;;;;;;;;;;3;9;brown;0
+693;;Fleur;AK;5;2;5;CO;;;;;;;;;;;0;0;fresh;0
+694;Fleur;Fleur;AK;5;4;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+695;;Fleur;MU;6;5;4;CO;;;;;;;;;;;1;2;fresh;0
+696;;Fleur;MA;5;5;2;CO;;;;;;;;;;;2;0;fresh;0
+697;;Fleur;AK;5;3;3;GD;;;;;;;;;;;8;0;fresh;0
+698;;Fleur;AK;2;1;1;GD;;;;;;;;;;;3;0;fresh;0
+699;;Fleur;UM;4;4;4;CO;;;;;;;;;;;0;0;fresh;0
+700;;Fleur;MU;4;2;2;GD;;;;;;;;;;;15;0;fresh;0
+701;;Fleur;UM;5;3;4;GD;;;;;;;;;;;7;0;brown;0
+702;;Fleur;MU;4;4;5;GD;;;;;;;;;;;1;0;fresh;0
+703;;Fleur;AK;2;5;3;CO;;;;;;;;;;;3;0;fresh;0
+704;;Fleur;RE;6;2;4;GD;;;;;;;;;;;3;1;fresh;0
+705;;Fleur;AK;3;2;2;GD;;;;;;;;;;;1;2;fresh;0
+706;;Fleur;KA;2;6;5;GD;;;;;;;;;;;4;0;fresh;0
+707;;Fleur;MU;5;4;2;GD;;;;;;;;;;;0;2;fresh;0
+708;Fleur;Fleur;MA;7;4;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+709;;Fleur;MA;6;5;2;GD;;;;;;;;;;;0;0;fresh;0
+710;;Fleur;MU;4;2;5;GD;;;;;;;;;;;2;0;fresh;0
+711;;Fleur;UM;1;5;4;CO;;;;;;;;;;;1;0;fresh;0
+712;;Fleur;UM;6;3;2;CO;;;;;;;;;;;0;1;fresh;0
+713;;Fleur;UM;6;2;5;GD;;;;;;;;;;;10;0;fresh;0
+714;;Fleur;KA;7;6;2;CO;;;;;;;;;;;1;0;fresh;0
+715;;Fleur;UM;6;3;2;GD;;;;;;;;;;;3;4;fresh;0
+716;;Fleur;MA;5;6;3;GD;;;;;;;;;;;1;0;fresh;0
+717;;Fleur;RE;3;4;2;CO;;;;;;;;;;;0;0;fresh;0
+718;;Fleur;UM;6;4;3;CO;;;;;;;;;;;1;0;fresh;0
+719;;Fleur;MA;1;6;1;GD;;;;;;;;;;;0;0;fresh;15
+720;;Fleur;MA;4;6;4;CO;;;;;;;;;;;0;0;fresh;0
+721;;Fleur;MA;5;3;5;GD;;;;;;;;;;;5;1;fresh;0
+722;;Fleur;UM;6;6;3;GD;;;;;;;;;;;3;0;fresh;0
+723;;Fleur;MU;6;5;1;GD;;;;;;;;;;;7;6;fresh;0
+724;;Fleur;MU;1;3;4;CO;;;;;;;;;;;0;0;fresh;0
+725;;Fleur;MA;1;6;5;GD;;;;;;;;;;;3;0;fresh;0
+726;;Fleur;AK;3;5;3;GD;;;;;;;;;;;3;0;fresh;0
+727;;Fleur;RE;1;3;4;CO;;;;;;;;;;;1;0;fresh;0
+728;;Fleur;MU;4;5;3;GD;;;;;;;;;;;3;0;fresh;0
+729;Fleur;Fleur;MA;5;3;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+730;;Fleur;MA;6;3;4;CO;;;;;;;;;;;3;0;fresh;0
+731;;Fleur;KA;1;4;5;GD;;;;;;;;;;;3;0;fresh;0
+732;;Fleur;AK;5;3;5;GD;;;;;;;;;;;5;0;fresh;0
+733;;Fleur;KA;1;4;4;GD;;;;;;;;;;;1;0;fresh;0
+734;;Fleur;RE;4;3;1;GD;;;;;;;;;;;8;0;fresh;0
+735;;Fleur;KA;2;4;1;GD;;;;;;;;;;;2;0;fresh;0
+736;Fleur;Fleur;UM;4;5;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+737;;Fleur;KA;1;3;2;GD;;;;;;;;;;;4;38;brown;0
+738;;Fleur;UM;4;6;5;CO;;;;;;;;;;;0;2;fresh;0
+739;;Fleur;MA;6;3;2;CO;;;;;;;;;;;1;1;fresh;0
+740;;Fleur;KA;1;1;5;GD;;;;;;;;;;;3;0;fresh;0
+741;;Fleur;AK;5;6;1;CO;;;;;;;;;;;0;1;fresh;0
+742;;Fleur;AK;2;5;4;CO;;;;;;;;;;;5;0;fresh;0
+743;Fleur;Fleur;MA;6;6;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+744;;Fleur;AK;2;6;5;CO;;;;;;;;;;;4;0;fresh;0
+745;;Fleur;MA;6;6;5;CO;;;;;;;;;;;0;0;fresh;0
+746;;Fleur;MU;3;1;3;GD;;;;;;;;;;;9;0;fresh;0
+747;;Fleur;KA;7;6;3;CO;;;;;;;;;;;8;3;fresh;0
+748;;Fleur;MU;5;3;5;GD;;;;;;;;;;;10;4;fresh;0
+749;;Fleur;MU;1;2;4;GD;;;;;;;;;;;4;1;fresh;0
+750;;Fleur;AK;4;6;3;GD;;;;;;;;;;;1;0;fresh;0
+751;;Fleur;RE;1;3;2;CO;;;;;;;;;;;0;0;fresh;0
+752;;Fleur;MA;7;6;4;GD;;;;;;;;;;;3;0;fresh;0
+753;;Fleur;UM;3;4;1;GD;;;;;;;;;;;6;0;fresh;0
+754;;Fleur;RE;6;4;5;GD;;;;;;;;;;;3;0;fresh;0
+755;;Fleur;UM;3;3;5;CO;;;;;;;;;;;0;0;fresh;0
+756;;Fleur;KA;4;4;5;GD;;;;;;;;;;;1;0;fresh;5
+757;Fleur;Fleur;MA;4;4;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+758;;Fleur;KA;1;3;5;CO;;;;;;;;;;;15;18;brown;0
+759;;Fleur;KA;2;5;1;CO;;;;;;;;;;;0;0;fresh;0
+760;;Fleur;AK;3;5;1;CO;;;;;;;;;;;0;0;fresh;0
+761;;Fleur;KA;4;6;3;GD;;;;;;;;;;;1;0;fresh;0
+762;;Fleur;KA;4;4;1;GD;;;;;;;;;;;0;1;fresh;0
+763;Fleur;Fleur;UM;6;3;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+764;Fleur;Fleur;AK;2;4;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+765;;Fleur;KA;2;3;1;CO;;;;;;;;;;;0;0;fresh;0
+766;;Fleur;KA;2;3;4;CO;;;;;;;;;;;4;1;fresh;0
+767;;Fleur;MU;5;2;3;GD;;;;;;;;;;;2;2;fresh;0
+768;;Fleur;MU;5;6;1;CO;;;;;;;;;;;5;0;fresh;0
+769;;Fleur;UM;3;4;1;CO;;;;;;;;;;;0;0;fresh;0
+770;;Fleur;RE;3;5;3;CO;;;;;;;;;;;1;0;fresh;0
+771;;Fleur;RE;4;3;5;CO;;;;;;;;;;;8;0;fresh;0
+772;;Fleur;UM;4;4;5;CO;;;;;;;;;;;0;1;fresh;0
+773;;Fleur;UM;6;1;5;GD;;;;;;;;;;;7;0;fresh;0
+774;;Fleur;MA;7;2;5;GD;;;;;;;;;;;4;1;fresh;0
+775;;Fleur;KA;7;4;3;CO;;;;;;;;;;;2;0;fresh;0
+776;;Fleur;MA;6;3;1;CO;;;;;;;;;;;4;0;fresh;0
+777;;Fleur;MU;1;3;1;CO;;;;;;;;;;;1;22;brown;20
+778;;Fleur;MU;1;2;2;CO;;;;;;;;;;;1;1;fresh;0
+779;;Fleur;MU;6;5;2;GD;;;;;;;;;;;9;0;fresh;0
+780;;Fleur;RE;6;6;5;CO;;;;;;;;;;;0;5;fresh;10
+781;;Fleur;AK;2;5;2;CO;;;;;;;;;;;3;0;fresh;0
+782;;Fleur;MU;3;5;2;CO;;;;;;;;;;;4;0;fresh;0
+783;;Fleur;KA;3;5;4;CO;;;;;;;;;;;0;0;fresh;0
+784;;Fleur;UM;1;6;4;CO;;;;;;;;;;;13;0;fresh;5
+785;;Fleur;UM;1;5;1;CO;;;;;;;;;;;4;0;fresh;5
+786;;Fleur;UM;3;3;2;GD;;;;;;;;;;;2;0;fresh;0
+787;;Fleur;MU;6;5;3;CO;;;;;;;;;;;1;0;fresh;20
+788;;Fleur;UM;3;3;1;CO;;;;;;;;;;;0;0;fresh;0
+789;;Fleur;AK;2;5;1;CO;;;;;;;;;;;0;0;fresh;0
+790;;Fleur;MU;1;3;5;CO;;;;;;;;;;;0;11;brown;0
+791;;Fleur;UM;1;5;2;CO;;;;;;;;;;;9;0;fresh;10
+792;;Fleur;AK;3;1;4;GD;;;;;;;;;;;0;0;fresh;0
+793;;Fleur;AK;2;1;5;GD;;;;;;;;;;;2;0;fresh;0
+794;;Fleur;AK;3;3;3;CO;;;;;;;;;;;0;0;fresh;0
+795;;Fleur;AK;3;3;4;GD;;;;;;;;;;;2;0;fresh;0
+796;;Fleur;RE;6;5;4;GD;;;;;;;;;;;2;0;fresh;0
+797;;Fleur;AK;3;3;2;CO;;;;;;;;;;;2;1;fresh;0
+798;;Fleur;MU;3;3;5;GD;;;;;;;;;;;0;0;fresh;0
+799;;Fleur;KA;1;2;1;GD;;;;;;;;;;;0;0;fresh;0
+800;;Fleur;RE;4;3;4;CO;;;;;;;;;;;1;17;brown;0
+801;;Fleur;RE;4;2;4;GD;;;;;;;;;;;5;0;fresh;0
+802;;Fleur;RE;4;5;3;GD;;;;;;;;;;;5;3;fresh;0
+803;;Fleur;MU;6;4;5;GD;;;;;;;;;;;3;2;fresh;0
+804;;Fleur;MU;6;6;2;CO;;;;;;;;;;;2;1;fresh;5
+805;;Fleur;UM;1;5;2;GD;;;;;;;;;;;3;0;fresh;0
+806;;Fleur;AK;3;4;4;GD;;;;;;;;;;;0;0;fresh;0
+807;;Fleur;MU;6;6;4;CO;;;;;;;;;;;0;0;fresh;5
+808;;Fleur;KA;7;6;4;GD;;;;;;;;;;;24;0;fresh;0
+809;;Fleur;KA;2;5;2;CO;;;;;;;;;;;2;0;fresh;5
+810;;Fleur;UM;3;4;3;GD;;;;;;;;;;;9;42;fresh;0
+811;;Fleur;RE;3;5;5;GD;;;;;;;;;;;5;0;fresh;0
+812;;Fleur;UM;1;5;3;GD;;;;;;;;;;;3;0;fresh;5
+813;;Fleur;RE;1;5;3;GD;;;;;;;;;;;12;0;fresh;0
+814;;Fleur;KA;7;5;1;CO;;;;;;;;;;;3;0;fresh;0
+815;;Fleur;MA;1;3;3;GD;;;;;;;;;;;2;1;fresh;0
+816;;Fleur;KA;4;6;2;CO;;;;;;;;;;;1;1;fresh;5
+817;;Fleur;MU;3;4;1;GD;;;;;;;;;;;1;0;fresh;0
+818;;Fleur;KA;1;3;3;CO;;;;;;;;;;;0;0;fresh;0
+819;;Fleur;UM;3;4;4;GD;;;;;;;;;;;5;0;fresh;0
+820;;Fleur;UM;5;4;4;GD;;;;;;;;;;;1;0;fresh;0
+821;;Fleur;MA;1;5;4;CO;;;;;;;;;;;0;0;fresh;0
+822;;Fleur;RE;4;4;3;GD;;;;;;;;;;;3;1;fresh;0
+823;;Fleur;KA;1;4;1;GD;;;;;;;;;;;1;0;fresh;0
+824;;Fleur;KA;4;4;1;CO;;;;;;;;;;;2;0;fresh;0
+825;;Fleur;RE;6;4;3;GD;;;;;;;;;;;3;0;fresh;0
+826;;Fleur;MA;6;6;1;CO;;;;;;;;;;;3;1;fresh;0
+827;;Fleur;UM;3;3;5;GD;;;;;;;;;;;3;0;fresh;0
+828;;Fleur;UM;4;4;4;GD;;;;;;;;;;;2;0;fresh;0
+829;;Fleur;RE;6;4;2;CO;;;;;;;;;;;1;0;fresh;0
+830;;Fleur;UM;4;5;5;GD;;;;;;;;;;;0;1;fresh;0
+831;;Fleur;RE;4;3;2;GD;;;;;;;;;;;4;1;fresh;5
+832;;Fleur;RE;3;3;5;GD;;;;;;;;;;;2;0;fresh;0
+833;;Fleur;MU;6;5;5;CO;;;;;;;;;;;3;0;fresh;0
+834;;Fleur;UM;6;6;1;CO;;;;;;;;;;;3;0;fresh;0
+835;;Fleur;MU;1;6;4;CO;;;;;;;;;;;5;0;fresh;0
+836;;Fleur;KA;1;4;3;GD;;;;;;;;;;;0;0;fresh;0
+837;Fleur;Fleur;AK;5;6;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+838;Fleur;Fleur;UM;5;6;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+839;Fleur;Fleur;RE;4;3;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+840;;Fleur;AK;3;5;5;GD;;;;;;;;;;;1;0;fresh;0
+841;;Fleur;MU;3;4;2;GD;;;;;;;;;;;0;0;fresh;0
+842;;Fleur;RE;6;4;5;CO;;;;;;;;;;;3;0;fresh;0
+843;;Fleur;MA;7;5;4;CO;;;;;;;;;;;9;0;fresh;0
+844;;Fleur;AK;1;6;2;CO;;;;;;;;;;;1;1;fresh;0
+845;;Fleur;MU;3;4;1;CO;;;;;;;;;;;0;1;fresh;0
+846;;Fleur;MU;6;6;3;CO;;;;;;;;;;;4;0;fresh;0
+847;;Fleur;KA;3;4;5;GD;;;;;;;;;;;5;1;fresh;0
+848;;Fleur;UM;5;2;2;CO;;;;;;;;;;;3;0;fresh;0
+849;;Fleur;MU;6;6;3;GD;;;;;;;;;;;4;5;fresh;0
+850;;Fleur;MU;5;6;4;CO;;;;;;;;;;;1;0;fresh;0
+851;;Fleur;MU;1;2;3;GD;;;;;;;;;;;3;0;fresh;0
+852;;Fleur;AK;4;4;4;CO;;;;;;;;;;;1;0;fresh;0
+853;;Fleur;AK;3;4;2;GD;;;;;;;;;;;5;0;fresh;0
+854;;Fleur;MA;4;3;5;GD;;;;;;;;;;;2;1;fresh;0
+855;;Fleur;RE;6;6;2;CO;;;;;;;;;;;0;0;fresh;0
+856;;Fleur;MU;1;3;4;GD;;;;;;;;;;;1;0;fresh;0
+857;;Fleur;RE;4;4;2;CO;;;;;;;;;;;1;1;fresh;0
+858;;Fleur;AK;4;4;3;GD;;;;;;;;;;;4;0;fresh;0
+859;;Fleur;KA;2;3;2;GD;;;;;;;;;;;3;0;fresh;5
+860;;Fleur;UM;4;6;4;CO;;;;;;;;;;;0;0;fresh;0
+861;;Fleur;RE;3;4;4;CO;;;;;;;;;;;1;1;fresh;0
+862;;Fleur;MU;3;4;3;CO;;;;;;;;;;;0;0;fresh;0
+863;;Fleur;MA;7;5;4;GD;;;;;;;;;;;0;2;fresh;0
+864;;Fleur;KA;1;3;5;GD;;;;;;;;;;;2;0;fresh;0
+865;;Fleur;KA;1;4;2;GD;;;;;;;;;;;3;0;fresh;0
+866;;Fleur;KA;3;1;2;GD;;;;;;;;;;;5;1;fresh;5
+867;;Fleur;RE;1;1;3;GD;;;;;;;;;;;0;0;fresh;0
+868;;Fleur;AK;5;4;4;CO;;;;;;;;;;;0;0;fresh;0
+869;;Fleur;KA;1;5;2;CO;;;;;;;;;;;0;0;fresh;0
+870;;Fleur;RE;4;3;4;GD;;;;;;;;;;;4;0;fresh;10
+871;;Fleur;KA;1;3;4;CO;;;;;;;;;;;5;3;fresh;0
+872;;Fleur;KA;1;3;2;CO;;;;;;;;;;;4;0;fresh;0
+873;;Fleur;AK;4;6;2;GD;;;;;;;;;;;2;1;fresh;0
+874;;Fleur;UM;5;2;5;CO;;;;;;;;;;;1;0;fresh;0
+875;;Fleur;UM;3;4;5;CO;;;;;;;;;;;3;0;fresh;5
+876;Fleur;Fleur;AK;1;3;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+877;Fleur;Fleur;RE;1;3;1;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+878;;Fleur;MA;5;5;4;CO;;;;;;;;;;;1;0;fresh;0
+879;;Fleur;MA;7;6;4;CO;;;;;;;;;;;8;0;fresh;0
+880;;Fleur;KA;2;4;3;GD;;;;;;;;;;;6;0;fresh;0
+881;;Fleur;MA;1;4;2;CO;;;;;;;;;;;0;0;fresh;0
+882;;Fleur;UM;6;6;3;CO;;;;;;;;;;;0;1;fresh;0
+883;;Fleur;KA;2;4;2;GD;;;;;;;;;;;1;0;fresh;0
+884;;Fleur;UM;4;6;1;CO;;;;;;;;;;;1;7;fresh;0
+885;;Fleur;AK;5;4;5;GD;;;;;;;;;;;1;0;fresh;0
+886;;Fleur;MA;5;6;1;GD;;;;;;;;;;;0;0;fresh;0
+887;;Fleur;RE;1;2;2;CO;;;;;;;;;;;1;0;fresh;0
+888;;Fleur;MU;1;4;2;CO;;;;;;;;;;;2;0;fresh;0
+889;;Fleur;MA;7;5;2;GD;;;;;;;;;;;6;0;fresh;0
+890;;Fleur;AK;1;3;1;CO;;;;;;;;;;;0;0;fresh;0
+891;Fleur;Fleur;MU;1;6;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+892;;Fleur;RE;6;4;1;CO;;;;;;;;;;;1;6;brown;10
+893;;Fleur;MA;5;5;2;GD;;;;;;;;;;;1;1;fresh;0
+894;;Fleur;KA;3;2;2;GD;;;;;;;;;;;1;0;fresh;0
+895;;Fleur;RE;3;4;1;GD;;;;;;;;;;;2;0;fresh;0
+896;;Fleur;UM;1;4;3;GD;;;;;;;;;;;0;0;fresh;0
+897;;Fleur;AK;1;6;2;GD;;;;;;;;;;;1;0;fresh;0
+898;;Fleur;RE;1;6;5;GD;;;;;;;;;;;4;0;fresh;0
+899;;Fleur;MU;4;6;1;GD;;;;;;;;;;;2;0;fresh;0
+900;;Fleur;MA;5;4;1;CO;;;;;;;;;;;4;0;fresh;0
+901;;Fleur;KA;4;4;4;CO;;;;;;;;;;;0;0;fresh;0
+902;;Fleur;AK;3;4;1;GD;;;;;;;;;;;3;1;fresh;0
+903;;Fleur;RE;3;4;5;CO;;;;;;;;;;;1;0;fresh;0
+904;;Fleur;MU;5;5;3;CO;;;;;;;;;;;1;0;fresh;0
+905;;Fleur;KA;4;4;5;CO;;;;;;;;;;;2;0;fresh;0
+906;;Fleur;AK;3;6;1;CO;;;;;;;;;;;0;0;fresh;30
+907;;Fleur;MA;6;5;5;CO;;;;;;;;;;;0;0;fresh;5
+908;;Fleur;KA;1;3;1;GD;;;;;;;;;;;4;0;fresh;0
+909;;Fleur;UM;1;1;1;GD;;;;;;;;;;;2;0;fresh;0
+910;;Fleur;MA;1;5;5;GD;;;;;;;;;;;2;0;fresh;0
+911;;Fleur;MU;5;6;5;CO;;;;;;;;;;;1;0;fresh;10
+912;;Fleur;RE;4;5;3;CO;;;;;;;;;;;6;0;fresh;0
+913;;Fleur;RE;4;3;3;GD;;;;;;;;;;;2;7;fresh;0
+914;;Fleur;MU;1;6;2;GD;;;;;;;;;;;2;0;fresh;0
+915;;Fleur;AK;2;6;5;GD;;;;;;;;;;;3;0;fresh;0
+916;;Fleur;KA;3;5;5;CO;;;;;;;;;;;0;0;fresh;0
+917;;Fleur;RE;3;3;2;GD;;;;;;;;;;;0;1;fresh;0
+918;;Fleur;AK;2;2;2;CO;;;;;;;;;;;0;0;fresh;0
+919;;Fleur;MA;1;3;1;GD;;;;;;;;;;;2;1;fresh;0
+920;;Fleur;KA;7;1;2;CO;;;;;;;;;;;2;0;fresh;0
+921;;Fleur;KA;2;6;4;CO;;;;;;;;;;;1;0;fresh;0
+922;;Fleur;RE;4;4;4;GD;;;;;;;;;;;0;0;fresh;0
+923;;Fleur;AK;4;3;1;CO;;;;;;;;;;;0;1;fresh;0
+924;;Fleur;AK;1;3;5;CO;;;;;;;;;;;7;0;fresh;5
+925;;Fleur;RE;4;4;2;GD;;;;;;;;;;;5;1;fresh;0
+926;;Fleur;UM;3;4;2;GD;;;;;;;;;;;3;0;fresh;0
+927;Fleur;Fleur;KA;4;4;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+928;;Fleur;RE;6;5;3;CO;;;;;;;;;;;4;1;fresh;0
+929;;Fleur;MU;3;1;1;GD;;;;;;;;;;;6;0;fresh;0
+930;;Fleur;AK;4;6;5;GD;;;;;;;;;;;10;1;fresh;0
+931;;Fleur;KA;2;3;4;GD;;;;;;;;;;;2;0;fresh;10
+932;;Fleur;RE;3;5;1;GD;;;;;;;;;;;1;0;fresh;0
+933;;Fleur;KA;3;2;1;CO;;;;;;;;;;;0;1;fresh;0
+934;Fleur;Fleur;MA;7;5;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;empty
+935;;Fleur;RE;6;4;4;CO;;;;;;;;;;;1;2;fresh;0
+936;;Fleur;AK;1;4;2;CO;;;;;;;;;;;3;0;fresh;0
+937;;Fleur;MA;7;6;1;CO;;;;;;;;;;;0;0;fresh;0
+938;;Fleur;KA;2;1;4;GD;;;;;;;;;;;4;0;fresh;0
+939;;Fleur;RE;3;5;1;CO;;;;;;;;;;;0;0;fresh;0
+940;;Fleur;MU;6;5;2;CO;;;;;;;;;;;1;0;fresh;0
+941;;Fleur;MU;3;4;4;CO;;;;;;;;;;;3;0;fresh;0
+942;;Fleur;MA;7;6;5;GD;;;;;;;;;;;9;6;brown;20
+943;;Fleur;MA;5;6;3;CO;;;;;;;;;;;2;4;brown;20
+944;;Fleur;RE;6;5;2;CO;;;;;;;;;;;2;4;fresh;0
+945;;Fleur;KA;2;3;1;GD;;;;;;;;;;;1;0;fresh;0
+946;;Fleur;MU;3;4;3;GD;;;;;;;;;;;2;0;fresh;0
+947;;Fleur;RE;3;1;5;CO;;;;;;;;;;;0;2;fresh;0
+948;;Fleur;AK;5;4;1;GD;;;;;;;;;;;0;0;fresh;0
+949;;Fleur;RE;4;3;1;CO;;;;;;;;;;;3;10;fresh;0
+950;;Fleur;AK;5;2;3;CO;;;;;;;;;;;0;3;fresh;0
+951;;Fleur;MA;4;4;1;GD;;;;;;;;;;;1;0;fresh;0
+952;;Fleur;UM;3;4;2;CO;;;;;;;;;;;3;0;fresh;0
+953;;Fleur;RE;6;5;5;CO;;;;;;;;;;;1;0;fresh;0
+954;;Fleur;KA;7;6;5;CO;;;;;;;;;;;10;0;fresh;0
+955;;Fleur;UM;6;6;4;CO;;;;;;;;;;;3;0;fresh;0
+956;;Fleur;AK;5;6;5;CO;;;;;;;;;;;1;4;fresh;0
+957;;Fleur;MA;1;5;3;CO;;;;;;;;;;;1;0;fresh;0
+958;;Fleur;AK;5;4;3;CO;;;;;;;;;;;1;0;fresh;0
+959;;Fleur;AK;5;4;3;GD;;;;;;;;;;;0;0;fresh;0
+960;;Fleur;RE;4;4;4;CO;;;;;;;;;;;7;0;fresh;0
+961;;Fleur;MA;7;5;2;CO;;;;;;;;;;;1;0;fresh;10
+962;;Fleur;MA;7;5;3;GD;;;;;;;;;;;5;0;fresh;10
+963;;Fleur;RE;6;6;4;CO;;;;;;;;;;;2;0;fresh;0
+964;;Fleur;MA;7;5;1;CO;;;;;;;;;;;3;3;fresh;0
+965;;Fleur;RE;1;6;3;GD;;;;;;;;;;;3;0;fresh;0
+966;;Fleur;UM;1;6;3;CO;;;;;;;;;;;1;0;fresh;10
+967;;Fleur;KA;2;4;4;GD;;;;;;;;;;;2;0;fresh;0
+968;;Fleur;MU;6;6;5;CO;;;;;;;;;;;10;0;fresh;0
+969;;Fleur;UM;5;6;3;CO;;;;;;;;;;;1;0;fresh;0
+970;;Fleur;RE;2;4;3;CO;;;;;;;;;;;2;0;fresh;0
+971;;Fleur;MU;3;5;5;CO;;;;;;;;;;;0;0;fresh;0
+972;;Fleur;UM;3;3;4;CO;;;;;;;;;;;1;0;fresh;0
+973;;Fleur;MA;6;3;5;CO;;;;;;;;;;;2;0;fresh;0
+974;;Fleur;MU;5;6;2;CO;;;;;;;;;;;0;0;fresh;0
+975;;Fleur;MA;4;6;2;CO;;;;;;;;;;;0;7;fresh;0
+976;;Fleur;MA;1;6;4;CO;;;;;;;;;;;1;0;fresh;0
+977;;Jimmie;AK;4;6;3;CO;;;;;;;;;;;0;0;fresh;
+978;;Jimmie;MU;1;4;4;CO;;;;;;;;;;;0;0;fresh;
+979;;Jimmie;AK;3;4;3;CO;;;;;;;;;;;3;0;fresh;
+980;;Jimmie;UM;6;5;3;CO;;;;;;;;;;;0;0;fresh;
+981;;Jimmie;MU;3;5;3;CO;;;;;;;;;;;3;0;fresh;
+982;;Jimmie;MU;1;5;5;CO;;;;;;;;;;;3;0;fresh;
+983;;Jimmie;KA;7;5;5;CO;;;;;;;;;;;0;2;fresh;
+984;;Jimmie;MA;5;2;5;CO;;;;;;;;;;;0;0;fresh;
+985;;Jimmie;UM;5;4;2;CO;;;;;;;;;;;2;2;fresh;
+986;;Jimmie;UM;6;4;5;CO;;;;;;;;;;;6;0;fresh;
+987;;Jimmie;UM;3;5;2;CO;;;;;;;;;;;1;0;fresh;
+988;;Jimmie;MA;5;4;3;CO;;;;;;;;;;;1;1;fresh;
+989;;Jimmie;AK;1;1;1;CO;;;;;;;;;;;1;0;fresh;
+990;;Jimmie;AK;5;4;2;CO;;;;;;;;;;;6;0;fresh;
+991;;Jimmie;AK;2;6;1;CO;;;;;;;;;;;5;2;fresh;
+992;;Jimmie;MA;1;4;3;CO;;;;;;;;;;;0;1;fresh;
+993;;Jimmie;KA;7;5;3;CO;;;;;;;;;;;0;0;fresh;
+994;;Jimmie;AK;3;6;2;CO;;;;;;;;;;;0;0;fresh;
+995;;Jimmie;MU;1;4;5;CO;;;;;;;;;;;1;0;fresh;4 black larvea
+996;;Jimmie;UM;1;4;4;CO;;;;;;;;;;;0;0;fresh;
+997;;Jimmie;KA;7;4;5;CO;;;;;;;;;;;0;0;fresh;
+998;;Jimmie;UM;4;6;2;CO;;;;;;;;;;;0;0;fresh;30 black larvea
+999;;Jimmie;KA;7;6;1;CO;;;;;;;;;;;0;3;fresh;
+1000;;Jimmie;MU;4;4;5;CO;;;;;;;;;;;1;0;fresh;
+1001;;Jimmie;AK;1;1;3;CO;;;;;;;;;;;0;0;fresh;
+1002;;Jimmie;AK;3;6;5;CO;;;;;;;;;;;6;0;fresh;
+1003;;Jimmie;MA;4;4;2;CO;;;;;;;;;;;0;14;fresh;
+1004;;Jimmie;UM;5;6;4;CO;;;;;;;;;;;5;0;fresh;10 black larvea
+1005;;Jimmie;UM;1;6;5;GD;;;;;;;;;;;9;0;fresh;
+1006;;Jimmie;UM;6;2;4;GD;;;;;;;;;;;0;1;fresh;
+1007;;Jimmie;MU;3;6;4;GD;;;;;;;;;;;6;0;fresh;
+1008;;Jimmie;RE;2;1;1;CO;;;;;;;;;;;3;0;fresh;
+1009;;Jimmie;UM;5;2;4;GD;;;;;;;;;;;2;2;fresh;
+1010;Jimmie;Jimmie;UM;5;2;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1011;;Jimmie;UM;5;1;4;CO;;;;;;;;;;;1;0;fresh;
+1012;;Jimmie;MA;1;1;3;CO;;;;;;;;;;;2;0;fresh;
+1013;;Jimmie;AK;1;3;5;GD;;;;;;;;;;;2;0;fresh;
+1014;;Jimmie;RE;4;2;3;CO;;;;;;;;;;;1;4;fresh;1 black larvea
+1015;;Jimmie;KA;3;5;4;GD;;;;;;;;;;;0;0;fresh;
+1016;;Jimmie;KA;7;1;1;GD;;;;;;;;;;;1;7;brown;1 black larvea
+1017;;Jimmie;MU;3;6;3;GD;;;;;;;;;;;0;0;fresh;
+1018;;Jimmie;KA;3;2;5;CO;;;;;;;;;;;0;0;fresh;
+1019;;Jimmie;KA;3;1;1;CO;;;;;;;;;;;6;2;fresh;
+1020;;Jimmie;MU;3;1;2;CO;;;;;;;;;;;1;0;fresh;
+1021;;Jimmie;MU;4;1;1;CO;;;;;;;;;;;0;0;fresh;
+1022;;Jimmie;KA;3;5;3;GD;;;;;;;;;;;1;0;fresh;
+1023;Jimmie;Jimmie;AK;5;2;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1024;;Jimmie;MU;3;1;3;CO;;;;;;;;;;;2;0;fresh;
+1025;;Jimmie;MU;6;5;4;GD;;;;;;;;;;;3;0;fresh;
+1026;;Jimmie;KA;2;5;5;GD;;;;;;;;;;;3;0;fresh;
+1027;;Jimmie;MU;4;2;4;GD;;;;;;;;;;;1;0;fresh;
+1028;;Jimmie;MA;1;4;1;GD;;;;;;;;;;;1;0;fresh;
+1029;;Jimmie;KA;1;2;4;GD;;;;;;;;;;;1;0;fresh;
+1030;;Jimmie;RE;4;3;3;CO;;;;;;;;;;;0;1;fresh;
+1031;;Jimmie;UM;3;1;2;CO;;;;;;;;;;;2;0;fresh;
+1032;;Jimmie;RE;2;4;1;CO;;;;;;;;;;;0;0;fresh;
+1033;Jimmie;Jimmie;RE;6;3;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1034;;Jimmie;MA;1;2;4;CO;;;;;;;;;;;1;0;fresh;
+1035;;Jimmie;KA;1;1;2;GD;;;;;;;;;;;1;0;fresh;
+1036;;Jimmie;KA;1;3;1;CO;;;;;;;;;;;1;0;fresh;
+1037;;Jimmie;AK;5;1;3;GD;;;;;;;;;;;4;0;fresh;
+1038;;Jimmie;UM;1;1;2;CO;;;;;;;;;;;3;0;fresh;15 black larvea
+1039;Jimmie;Jimmie;MU;1;5;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1040;;Jimmie;MU;6;6;2;GD;;;;;;;;;;;2;0;fresh;
+1041;;Jimmie;AK;2;4;2;CO;;;;;;;;;;;0;1;brown;
+1042;;Jimmie;AK;1;5;1;GD;;;;;;;;;;;1;0;fresh;
+1043;;Jimmie;AK;1;4;2;GD;;;;;;;;;;;5;0;fresh;
+1044;;Jimmie;AK;4;4;2;GD;;;;;;;;;;;5;0;fresh;
+1045;Jimmie;Jimmie;AK;2;1;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1046;;Jimmie;AK;5;3;4;GD;;;;;;;;;;;3;0;fresh;
+1047;;Jimmie;RE;6;4;4;GD;;;;;;;;;;;3;1;brown;15 black larvea
+1048;;Jimmie;UM;5;4;2;CO;;;;;;;;;;;1;2;brown;
+1049;;Jimmie;UM;5;5;5;GD;;;;;;;;;;;3;0;brown;10 black larvea
+1050;;Jimmie;UM;3;2;1;CO;;;;;;;;;;;4;0;brown;5 black larvea
+1051;;Jimmie;MA;1;4;4;GD;;;;;;;;;;;1;0;fresh;
+1052;;Jimmie;AK;5;1;5;GD;;;;;;;;;;;1;1;fresh;
+1053;;Jimmie;AK;2;4;3;CO;;;;;;;;;;;1;3;fresh;
+1054;;Jimmie;AK;1;5;4;GD;;;;;;;;;;;0;0;fresh;
+1055;;Jimmie;MA;4;6;5;GD;;;;;;;;;;;2;0;fresh;1 black larvea
+1056;;Jimmie;KA;3;1;5;CO;;;;;;;;;;;3;0;fresh;
+1057;;Jimmie;UM;1;6;2;GD;;;;;;;;;;;2;1;fresh;2 black larvea
+1058;;Jimmie;MA;7;6;3;GD;;;;;;;;;;;6;3;fresh;
+1059;;Jimmie;AK;5;2;1;GD;;;;;;;;;;;5;0;fresh;
+1060;;Jimmie;UM;5;2;5;GD;;;;;;;;;;;2;0;fresh;2 black larvea
+1061;;Jimmie;AK;2;2;5;CO;;;;;;;;;;;1;0;fresh;
+1062;;Jimmie;AK;2;2;1;CO;;;;;;;;;;;1;1;fresh;
+1063;;Jimmie;KA;7;3;1;GD;;;;;;;;;;;17;1;fresh;
+1064;;Jimmie;MU;5;2;5;CO;;;;;;;;;;;2;0;fresh;
+1065;;Jimmie;AK;5;1;2;CO;;;;;;;;;;;1;0;fresh;
+1066;;Jimmie;AK;5;1;1;CO;;;;;;;;;;;3;23;brown;5 black larvea
+1067;;Jimmie;UM;5;2;4;CO;;;;;;;;;;;0;0;fresh;
+1068;;Jimmie;MU;3;5;3;GD;;;;;;;;;;;6;1;fresh;
+1069;;Jimmie;KA;1;1;1;GD;;;;;;;;;;;0;0;fresh;
+1070;;Jimmie;MA;4;1;1;GD;;;;;;;;;;;0;0;fresh;
+1071;Jimmie;Jimmie;MA;4;6;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1072;;Jimmie;AK;3;2;1;GD;;;;;;;;;;;0;0;brown;
+1073;;Jimmie;MU;3;6;2;GD;;;;;;;;;;;1;0;fresh;
+1074;;Jimmie;AK;3;6;2;GD;;;;;;;;;;;1;0;fresh;
+1075;;Jimmie;KA;7;3;1;CO;;;;;;;;;;;4;0;fresh;20 black larvea
+1076;;Jimmie;MU;6;4;3;CO;;;;;;;;;;;1;0;fresh;
+1077;Jimmie;Jimmie;UM;5;1;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+1078;;Jimmie;MA;1;2;3;CO;;;;;;;;;;;0;0;fresh;
+1079;;Jimmie;MU;6;4;4;CO;;;;;;;;;;;0;0;fresh;
+1080;;Jimmie;UM;6;1;5;CO;;;;;;;;;;;3;0;fresh;
+1081;;Jimmie;UM;3;2;3;GD;;;;;;;;;;;1;0;fresh;
+1082;Jimmie;Jimmie;MU;6;2;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+1083;;Jimmie;RE;6;2;3;GD;;;;;;;;;;;3;0;fresh;
+1084;;Jimmie;MU;6;4;1;GD;;;;;;;;;;;1;0;fresh;
+1085;;Jimmie;UM;1;1;1;CO;;;;;;;;;;;5;0;fresh;20 black larvea
+1086;;Jimmie;MU;1;2;1;CO;;;;;;;;;;;1;1;brown;15 black larvea
+1087;;Jimmie;MU;3;5;5;GD;;;;;;;;;;;5;0;fresh;
+1088;;Jimmie;MU;6;1;5;GD;;;;;;;;;;;3;0;fresh;
+1089;;Jimmie;MA;5;4;3;GD;;;;;;;;;;;4;0;fresh;
+1090;;Jimmie;RE;4;1;5;CO;;;;;;;;;;;1;5;brown;
+1091;;Jimmie;AK;2;5;2;GD;;;;;;;;;;;0;0;fresh;
+1092;;Jimmie;MU;5;2;3;CO;;;;;;;;;;;0;0;fresh;
+1093;;Jimmie;KA;2;1;2;CO;;;;;;;;;;;2;0;brown;
+1094;;Jimmie;MU;1;5;2;GD;;;;;;;;;;;0;2;fresh;
+1095;;Jimmie;MU;6;1;4;GD;;;;;;;;;;;3;0;fresh;
+1096;;Jimmie;RE;1;3;1;GD;;;;;;;;;;;1;0;fresh;
+1097;;Jimmie;KA;3;5;2;GD;;;;;;;;;;;0;2;fresh;
+1098;;Jimmie;RE;4;4;1;GD;;;;;;;;;;;5;0;fresh;
+1099;;Jimmie;AK;5;1;4;CO;;;;;;;;;;;0;0;fresh;
+1100;;Jimmie;UM;5;4;2;GD;;;;;;;;;;;2;0;fresh;
+1101;;Jimmie;AK;5;2;4;GD;;;;;;;;;;;1;0;fresh;
+1102;;Jimmie;KA;7;4;3;GD;;;;;;;;;;;0;0;fresh;
+1103;;Jimmie;KA;1;1;4;GD;;;;;;;;;;;0;0;fresh;
+1104;Jimmie;Jimmie;RE;4;2;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1105;;Jimmie;RE;3;3;5;CO;;;;;;;;;;;3;0;fresh;
+1106;;Jimmie;MU;1;2;3;CO;;;;;;;;;;;0;0;fresh;
+1107;;Jimmie;AK;3;4;2;CO;;;;;;;;;;;1;0;fresh;
+1108;;Jimmie;MA;4;6;3;GD;;;;;;;;;;;7;0;fresh;
+1109;;Jimmie;UM;4;5;4;CO;;;;;;;;;;;1;2;fresh;
+1110;;Jimmie;MA;1;3;2;GD;;;;;;;;;;;3;0;fresh;
+1111;;Jimmie;RE;6;1;1;CO;;;;;;;;;;;12;0;fresh;
+1112;;Jimmie;RE ;4;4;5;GD;;;;;;;;;;;1;0;fresh;
+1113;;Jimmie;KA;1;5;1;CO;;;;;;;;;;;1;0;fresh;
+1114;Jimmie;Jimmie;RE;1;4;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1115;Jimmie;Jimmie;AK;4;4;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1116;Jimmie;Jimmie;AK;5;3;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1117;;Jimmie;KA;3;1;3;GD;;;;;;;;;;;0;0;fresh;
+1118;;Jimmie;AK;5;3;5;CO;;;;;;;;;;;0;0;fresh;
+1119;;Jimmie;MU;6;2;4;GD;;;;;;;;;;;2;0;fresh;
+1120;;Jimmie;AK;4;1;4;CO;;;;;;;;;;;0;0;fresh;
+1121;;Jimmie;UM;4;4;2;GD;;;;;;;;;;;1;0;fresh;
+1122;;Jimmie;RE;6;3;2;GD;;;;;;;;;;;0;0;fresh;
+1123;;Jimmie;AK;2;6;3;GD;;;;;;;;;;;5;0;fresh;
+1124;;Jimmie;AK;2;5;1;GD;;;;;;;;;;;3;0;fresh;
+1125;;Jimmie;UM;4;2;1;CO;;;;;;;;;;;1;0;fresh;
+1126;;Jimmie;UM;4;1;5;CO;;;;;;;;;;;0;0;fresh;
+1127;;Jimmie;MU;6;4;1;CO;;;;;;;;;;;4;0;fresh;1 black larvea
+1128;;Jimmie;MU;3;1;4;CO;;;;;;;;;;;4;0;fresh;
+1129;Jimmie;Jimmie;MA;1;2;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1130;;Jimmie;MU;3;1;4;GD;;;;;;;;;;;8;0;fresh;
+1131;;Jimmie;RE;3;4;3;GD;;;;;;;;;;;10;9;brown;
+1132;;Jimmie;RE;2;1;5;GD;;;;;;;;;;;3;0;fresh;
+1133;;Jimmie;MU;3;1;5;GD;;;;;;;;;;;1;1;fresh;
+1134;Jimmie;Jimmie;UM;6;1;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1135;;Jimmie;KA;1;5;5;CO;;;;;;;;;;;0;0;brown;
+1136;;Jimmie;RE;4;2;1;CO;;;;;;;;;;;1;0;fresh;
+1137;;Jimmie;MA;1;5;2;GD;;;;;;;;;;;0;0;fresh;
+1138;;Jimmie;MU;5;2;5;GD;;;;;;;;;;;1;0;fresh;
+1139;;Jimmie;MA;6;1;2;CO;;;;;;;;;;;4;0;fresh;
+1140;;Jimmie;MU;3;3;1;GD;;;;;;;;;;;1;0;fresh;
+1141;;Jimmie;MA;1;2;4;GD;;;;;;;;;;;1;0;fresh;
+1142;;Jimmie;UM;5;5;5;CO;;;;;;;;;;;3;0;fresh;
+1143;;Jimmie;AK;1;5;2;CO;;;;;;;;;;;0;1;fresh;
+1144;;Jimmie;AK;1;5;1;CO;;;;;;;;;;;0;0;brown;
+1145;Jimmie;Jimmie;UM;4;3;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1146;;Jimmie;AK;3;4;3;GD;;;;;;;;;;;0;1;fresh;only one fly, there is one empty cocon
+1147;;Jimmie;AK;3;3;2;GD;;;;;;;;;;;3;1;brown;the tube was laying open in the frezer, flies were laying spread in the tray
+1148;;Jimmie;MU;3;1;1;CO;;;;;;;;;;;0;0;fresh;
+1149;;Jimmie;RE;3;3;4;CO;;;;;;;;;;;2;0;fresh;
+1150;;Jimmie;MU;3;6;5;GD;;;;;;;;;;;7;0;fresh;
+1151;;Jimmie;MA;1;1;3;GD;;;;;;;;;;;14;0;fresh;
+1152;;Jimmie;MU;3;6;1;GD;;;;;;;;;;;0;0;fresh;
+1153;Jimmie;Jimmie;MA;5;1;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;
+1154;;Jimmie;MU;4;1;5;GD;;;;;;;;;;;3;0;fresh;
+1155;;Jimmie;RE;6;6;5;GD;;;;;;;;;;;3;1;fresh;
+1156;;Jimmie;KA;7;5;5;GD;;;;;;;;;;;0;3;fresh;
+1157;;Jimmie;MU;3;4;4;GD;;;;;;;;;;;1;0;fresh;
+1158;;Jimmie;MU;5;3;3;GD;;;;;;;;;;;13;0;fresh;
+1159;;Jimmie;UM;1;2;5;GD;;;;;;;;;;;3;1;brown;10 black larvea
+1160;;Jimmie;MU;5;5;1;GD;;;;;;;;;;;1;15;brown;15 black larvea
+1161;;Jimmie;AK;1;3;4;GD;;;;;;;;;;;0;2;fresh;
+1162;;Jimmie;AK;3;6;1;GD;;;;;;;;;;;4;0;fresh;
+1163;;Jimmie;AK;2;5;4;GD;;;;;;;;;;;5;0;fresh;
+1164;;Jimmie;AK;5;2;5;GD;;;;;;;;;;;1;0;fresh;
+1165;;Jimmie;UM;1;6;3;GD;;;;;;;;;;;2;0;fresh;10 black larvea
+1166;Jimmie;Jimmie;UM;5;1;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1167;;Jimmie;RE;2;4;2;GD;;;;;;;;;;;5;0;fresh;
+1168;;Jimmie;RE;6;3;5;GD;;;;;;;;;;;4;0;fresh;
+1169;;Jimmie;UM;1;6;1;GD;;;;;;;;;;;3;0;brown;5 black larvea
+1170;;Jimmie;KA;7;5;4;GD;;;;;;;;;;;4;0;fresh;
+1171;;Jimmie;AK;3;2;4;GD;;;;;;;;;;;0;0;fresh;
+1172;;Jimmie;MU;4;4;2;GD;;;;;;;;;;;0;0;fresh;
+1173;;Jimmie;MU;1;2;5;GD;;;;;;;;;;;1;0;fresh;
+1174;;Jimmie;RE;2;4;4;GD;;;;;;;;;;;3;0;brown;
+1175;;Jimmie;MU;6;2;3;GD;;;;;;;;;;;0;0;fresh;
+1176;;Jimmie;MU;1;2;5;CO;;;;;;;;;;;0;0;fresh;
+1177;;Jimmie;MA;7;4;4;CO;;;;;;;;;;;4;0;fresh;
+1178;;Jimmie;AK;3;2;5;GD;;;;;;;;;;;1;0;fresh;
+1179;;Jimmie;AK;3;6;5;GD;;;;;;;;;;;1;0;fresh;
+1180;;Jimmie;RE;2;4;5;CO;;;;;;;;;;;0;0;fresh;
+1181;;Jimmie;MU;4;2;1;GD;;;;;;;;;;;1;0;fresh;
+1182;Jimmie;Jimmie;KA;7;5;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1183;Jimmie;Jimmie;RE;3;1;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1184;;Jimmie;RE;4;2;1;GD;;;;;;;;;;;2;0;fresh;
+1185;;Jimmie;RE;1;4;2;GD;;;;;;;;;;;0;0;fresh;
+1186;;Jimmie;MA;1;4;3;GD;;;;;;;;;;;4;0;fresh;
+1187;;Jimmie;MU;4;4;1;GD;;;;;;;;;;;1;0;fresh;
+1188;;Jimmie;MA;6;1;5;GD;;;;;;;;;;;2;0;brown;
+1189;;Jimmie;UM;3;2;2;GD;;;;;;;;;;;2;0;fresh;
+1190;;Jimmie;UM;6;2;2;GD;;;;;;;;;;;5;0;fresh;
+1191;;Jimmie;UM;3;5;2;GD;;;;;;;;;;;1;0;fresh;
+1192;;Jimmie;RE;4;2;2;GD;;;;;;;;;;;5;0;fresh;
+1193;;Jimmie;AK;3;2;3;GD;;;;;;;;;;;3;0;fresh;
+1194;;Jimmie;RE;3;1;2;CO;;;;;;;;;;;5;0;fresh;
+1195;;Jimmie;UM;5;1;3;GD;;;;;;;;;;;1;0;fresh;
+1196;;Jimmie;UM;6;2;1;GD;;;;;;;;;;;12;0;fresh;
+1197;;Jimmie;UM;5;1;4;GD;;;;;;;;;;;5;0;fresh;
+1198;;Jimmie;KA;1;2;2;GD;;;;;;;;;;;1;0;fresh;
+1199;;Jimmie;UM;6;1;3;GD;;;;;;;;;;;5;0;fresh;
+1200;;Jimmie;KA;2;5;3;GD;;;;;;;;;;;1;0;fresh;
+1201;;Jimmie;AK;1;5;5;GD;;;;;;;;;;;4;0;fresh;
+1202;;Jimmie;AK;3;3;5;GD;;;;;;;;;;;0;0;fresh;
+1203;;Jimmie;MU;6;2;2;GD;;;;;;;;;;;8;0;fresh;
+1204;;Jimmie;KA;2;5;1;GD;;;;;;;;;;;1;0;fresh;
+1205;;Jimmie;RE;6;5;2;GD;;;;;;;;;;;2;0;fresh;
+1206;;Jimmie;UM;1;6;4;GD;;;;;;;;;;;4;0;fresh;
+1207;Jimmie;Jimmie;AK;5;1;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1208;;Jimmie;UM;6;2;3;GD;;;;;;;;;;;1;4;fresh;
+1209;;Jimmie;AK;5;2;2;GD;;;;;;;;;;;2;0;fresh;
+1210;;Jimmie;RE;1;3;3;CO;;;;;;;;;;;5;0;fresh;
+1211;Jimmie;Jimmie;MU;5;5;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1212;;Jimmie;MU;1;4;2;GD;;;;;;;;;;;2;0;fresh;
+1213;;Jimmie;MA;4;1;2;GD;;;;;;;;;;;3;0;fresh;
+1214;;Jimmie;MA;6;1;3;GD;;;;;;;;;;;0;0;fresh;
+1215;;Jimmie;KA;1;2;5;GD;;;;;;;;;;;1;0;fresh;
+1216;;Jimmie;RE;4;1;3;GD;;;;;;;;;;;0;0;fresh;
+1217;;Jimmie;UM;4;6;2;GD;;;;;;;;;;;0;0;fresh;
+1218;;Jimmie;RE;1;1;5;CO;;;;;;;;;;;1;1;fresh;
+1219;Jimmie;Jimmie;RE;2;4;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1220;Jimmie;Jimmie;AK;1;5;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1221;Jimmie;Jimmie;MA;5;6;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1222;;Jimmie;RE;4;1;1;GD;;;;;;;;;;;4;0;fresh;
+1223;;Jimmie;AK;4;5;5;GD;;;;;;;;;;;1;0;fresh;
+1224;;Jimmie;UM;3;5;3;GD;;;;;;;;;;;0;0;fresh;
+1225;;Jimmie;MA;1;4;2;GD;;;;;;;;;;;1;0;fresh;
+1226;;Jimmie;AK;2;1;5;CO;;;;;;;;;;;0;0;fresh;
+1227;;Jimmie;MA;6;1;4;CO;;;;;;;;;;;1;0;fresh;
+1228;;Jimmie;MA;6;1;5;CO;;;;;;;;;;;1;0;fresh;
+1229;;Jimmie;KA;2;1;4;CO;;;;;;;;;;;0;0;fresh;
+1230;;Jimmie;MU;6;1;2;GD;;;;;;;;;;;1;0;fresh;
+1231;;Jimmie;MA;1;4;5;GD;;;;;;;;;;;1;0;fresh;
+1232;;Jimmie;RE;3;4;4;GD;;;;;;;;;;;8;3;brown;
+1233;;Jimmie;AK;2;2;3;CO;;;;;;;;;;;0;0;fresh;
+1234;Jimmie;Jimmie;AK;5;1;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1235;;Jimmie;MA;7;1;5;GD;;;;;;;;;;;4;0;fresh;
+1236;;Jimmie;RE;4;1;1;CO;;;;;;;;;;;1;0;fresh;
+1237;;Jimmie;MU;5;3;2;GD;;;;;;;;;;;2;0;fresh;
+1238;Jimmie;Jimmie;AK;3;6;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1239;;Jimmie;KA;7;1;2;GD;;;;;;;;;;;4;1;fresh;
+1240;;Jimmie;MA;7;1;3;GD;;;;;;;;;;;2;0;fresh;
+1241;;Jimmie;MA;6;5;4;GD;;;;;;;;;;;1;0;fresh;
+1242;;Jimmie;RE;4;5;4;GD;;;;;;;;;;;0;0;fresh;
+1243;;Jimmie;MA;1;1;1;CO;;;;;;;;;;;1;0;fresh;
+1244;;Jimmie;AK;3;3;3;GD;;;;;;;;;;;5;0;fresh;
+1245;;Jimmie;UM;5;2;3;GD;;;;;;;;;;;1;0;fresh;
+1246;;Jimmie;MU;1;2;2;GD;;;;;;;;;;;1;0;fresh;
+1247;;Jimmie;MA;5;1;4;GD;;;;;;;;;;;5;1;fresh;
+1248;;Jimmie;KA;2;5;4;GD;;;;;;;;;;;2;1;fresh;
+1249;;Jimmie;MA;1;1;5;CO;;;;;;;;;;;2;1;fresh;
+1250;;Jimmie;UM;6;1;3;CO;;;;;;;;;;;0;1;fresh;
+1251;;Jimmie;AK;1;4;1;GD;;;;;;;;;;;3;0;fresh;
+1252;;Jimmie;UM;4;6;3;GD;;;;;;;;;;;4;0;fresh;
+1253;;Jimmie;KA;3;1;2;CO;;;;;;;;;;;2;0;fresh;
+1254;;Jimmie;MU;3;5;2;GD;;;;;;;;;;;2;1;fresh;
+1255;;Jimmie;RE;1;1;1;CO;;;;;;;;;;;0;0;fresh;
+1256;;Jimmie;MA;6;1;1;CO;;;;;;;;;;;2;0;fresh;
+1257;;Jimmie;MU;6;1;1;GD;;;;;;;;;;;0;0;fresh;
+1258;;Jimmie;UM;4;6;5;GD;;;;;;;;;;;0;0;fresh;
+1259;;Jimmie;RE;6;1;4;CO;;;;;;;;;;;2;1;fresh;
+1260;;Jimmie;UM;4;6;1;GD;;;;;;;;;;;4;1;fresh;
+1261;;Jimmie;UM;5;1;1;CO;;;;;;;;;;;2;0;brown;
+1262;;Jimmie;RE;2;4;1;GD;;;;;;;;;;;1;1;brown;
+1263;;Jimmie;UM;5;1;1;GD;;;;;;;;;;;4;0;brown;1 black larvea
+1264;;Jimmie;UM;5;3;5;GD;;;;;;;;;;;1;1;brown;
+1265;;Jimmie;MU;1;4;3;GD;;;;;;;;;;;13;1;brown;
+1266;;Jimmie;RE;4;1;2;CO;;;;;;;;;;;1;22;brown;
+1267;;Jimmie;KA;7;3;4;CO;;;;;;;;;;;2;17;brown;
+1268;;Jimmie;AK;1;3;3;CO;;;;;;;;;;;0;0;fresh;
+1269;;Jimmie;KA;3;5;2;CO;;;;;;;;;;;0;0;fresh;
+1270;;Jimmie;UM;6;4;4;CO;;;;;;;;;;;3;0;fresh;
+1271;;Jimmie;MU;1;3;3;CO;;;;;;;;;;;2;0;fresh;
+1272;;Jimmie;AK;5;2;2;CO;;;;;;;;;;;1;0;fresh;
+1273;;Jimmie;MU;6;4;2;GD;;;;;;;;;;;2;0;fresh;
+1274;;Jimmie;AK;2;4;2;GD;;;;;;;;;;;2;0;fresh;
+1275;;Jimmie;MU;3;5;4;CO;;;;;;;;;;;0;0;fresh;
+1276;;Jimmie;KA;7;6;5;GD;;;;;;;;;;;1;0;fresh;
+1277;;Jimmie;MA;1;5;4;GD;;;;;;;;;;;9;0;fresh;
+1278;;Jimmie;RE;6;5;4;CO;;;;;;;;;;;4;0;fresh;
+1279;;Jimmie;UM;4;4;1;GD;;;;;;;;;;;1;0;fresh;
+1280;Jimmie;Jimmie;KA;2;5;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1281;Jimmie;Jimmie;UM;3;1;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1282;Jimmie;Jimmie;UM;3;1;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1283;Jimmie;Jimmie;AK;1;3;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1284;;Jimmie;MU;4;5;1;CO;;;;;;;;;;;0;0;fresh;
+1285;;Jimmie;UM;4;4;3;CO;;;;;;;;;;;0;0;fresh;
+1286;;Jimmie;MU;4;5;2;CO;;;;;;;;;;;0;0;fresh;
+1287;;Jimmie;RE;3;5;2;CO;;;;;;;;;;;2;0;fresh;
+1288;;Jimmie;RE;4;4;1;CO;;;;;;;;;;;0;0;fresh;
+1289;;Jimmie;MA;1;6;2;CO;;;;;;;;;;;1;0;fresh ;5 black larvea
+1290;;Jimmie;MU;1;3;2;CO;;;;;;;;;;;0;1;fresh;
+1291;Jimmie;Jimmie;MA;5;6;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1292;Jimmie;Jimmie;AK;4;5;2;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1293;;Jimmie;AK;1;2;1;GD;;;;;;;;;;;2;2;brown;10 black larvea
+1294;;Jimmie;MA;1;5;1;GD;;;;;;;;;;;3;0;fresh ;
+1295;;Jimmie;KA;3;1;1;GD;;;;;;;;;;;1;0;fresh;
+1296;;Jimmie;AK;5;6;4;CO;;;;;;;;;;;2;0;fresh;
+1297;;Jimmie;UM;6;6;2;CO;;;;;;;;;;;1;0;fresh;
+1298;;Jimmie;MA;5;3;2;GD;;;;;;;;;;;13;0;fresh;
+1299;;Jimmie;AK;1;2;3;GD;;;;;;;;;;;0;0;fresh;
+1300;;Jimmie;AK;4;3;4;CO;;;;;;;;;;;1;0;fresh;
+1301;;Jimmie;KA;3;5;3;CO;;;;;;;;;;;0;0;fresh;
+1302;;Jimmie;MA;1;5;1;CO;;;;;;;;;;;1;0;fresh;1 black larvea
+1303;;Jimmie;UM;6;1;2;GD;;;;;;;;;;;1;1;fresh;
+1304;;Jimmie;RE;4;4;3;CO;;;;;;;;;;;4;0;fresh;
+1305;;Jimmie;UM;1;6;2;CO;;;;;;;;;;;7;0;fresh;5 black larvea
+1306;Jimmie;Jimmie;AK;5;1;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1307;Jimmie;Jimmie;MA;5;5;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1308;;Jimmie;MU;6;4;2;CO;;;;;;;;;;;0;0;fresh;
+1309;Jimmie;Jimmie;AK;3;3;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1310;;Jimmie;RE;4;1;5;GD;;;;;;;;;;;0;0;fresh;
+1311;;Jimmie;RE;4;2;3;GD;;;;;;;;;;;5;0;fresh;
+1312;;Jimmie;RE;1;1;3;CO;;;;;;;;;;;0;0;fresh;
+1313;;Jimmie;UM;5;2;2;GD;;;;;;;;;;;1;0;fresh;
+1314;;Jimmie;MU;5;5;4;GD;;;;;;;;;;;2;0;fresh;
+1315;;Jimmie;UM;5;3;2;GD;;;;;;;;;;;0;1;fresh;
+1316;Jimmie;Jimmie;AK;2;2;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh ;dead parent
+1317;;Jimmie;KA;7;4;4;CO;;;;;;;;;;;0;0;fresh;
+1318;;Jimmie;MA;6;5;1;GD;;;;;;;;;;;2;0;fresh;
+1319;;Jimmie;KA;1;2;3;GD;;;;;;;;;;;0;1;fresh;
+1320;;Jimmie;MA;6;1;1;GD;;;;;;;;;;;0;1;fresh;
+1321;;Jimmie;MA;6;3;3;CO;;;;;;;;;;;0;5;brown;
+1322;;Jimmie;RE;3;1;5;GD;;;;;;;;;;;2;0;fresh;
+1323;;Jimmie;MU;5;3;4;GD;;;;;;;;;;;3;1;brown;
+1324;;Jimmie;AK;3;1;1;GD;;;;;;;;;;;0;0;fresh;
+1325;;Jimmie;KA;3;4;5;CO;;;;;;;;;;;1;0;fresh;
+1326;;Jimmie;MU;5;4;1;GD;;;;;;;;;;;1;1;fresh;
+1327;;Jimmie;MA;1;1;4;CO;;;;;;;;;;;1;1;fresh;
+1328;;Jimmie;AK;4;5;1;CO;;;;;;;;;;;4;0;fresh;10 black larvea
+1329;;Jimmie;KA;4;6;5;GD;;;;;;;;;;;2;0;fresh;
+1330;;Jimmie;MA;1;6;5;CO;;;;;;;;;;;1;1;fresh;
+1331;;Jimmie;MU;5;5;4;CO;;;;;;;;;;;0;0;fresh;
+1332;;Jimmie;KA;1;3;3;GD;;;;;;;;;;;6;0;fresh;
+1333;;Jimmie;MA;5;5;1;CO;;;;;;;;;;;0;0;fresh;
+1334;;Jimmie;AK;4;4;4;GD;;;;;;;;;;;2;0;fresh;
+1335;;Jimmie;MU;1;6;4;GD;;;;;;;;;;;0;0;fresh;
+1336;;Jimmie;AK;3;5;4;CO;;;;;;;;;;;0;0;fresh;
+1337;;Jimmie;KA;2;1;1;GD;;;;;;;;;;;1;0;fresh;
+1338;;Jimmie;MA;7;6;2;CO;;;;;;;;;;;6;0;fresh;
+1339;;Jimmie;MU;3;4;5;CO;;;;;;;;;;;6;0;fresh;
+1340;;Jimmie;AK;1;6;1;CO;;;;;;;;;;;1;0;fresh;
+1341;;Jimmie;MU;6;4;3;GD;;;;;;;;;;;6;0;fresh;
+1342;Jimmie;Jimmie;MU;4;6;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1343;Jimmie;Jimmie;AK;2;6;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1344;Jimmie;Jimmie;AK;1;6;5;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1345;Jimmie;Jimmie;KA;4;6;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1346;Jimmie;Jimmie;RE;1;6;2;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1347;;Jimmie;AK;1;6;1;GD;;;;;;;;;;;0;0;fresh;
+1348;;Jimmie;UM;6;4;2;CO;;;;;;;;;;;0;0;fresh;
+1349;;Jimmie;MA;1;4;5;CO;;;;;;;;;;;1;0;fresh;
+1350;;Jimmie;UM;1;1;4;GD;;;;;;;;;;;1;1;fresh;
+1351;;Jimmie;MA;6;5;3;CO;;;;;;;;;;;4;0;fresh;
+1352;;Jimmie;RE;1;5;2;GD;;;;;;;;;;;8;0;fresh;
+1353;;Jimmie;UM;3;1;4;GD;;;;;;;;;;;1;0;fresh;
+1354;;Jimmie;AK;4;5;3;CO;;;;;;;;;;;0;0;fresh;
+1355;;Jimmie;AK;4;5;4;CO;;;;;;;;;;;1;0;fresh;1 black larvea
+1356;;Jimmie;RE;1;3;5;CO;;;;;;;;;;;0;1;fresh;
+1357;;Jimmie;UM;1;6;5;CO;;;;;;;;;;;4;0;fresh ;
+1358;;Jimmie;MA;6;6;2;GD;;;;;;;;;;;4;0;fresh;
+1359;;Jimmie;MU;5;4;5;CO;;;;;;;;;;;1;0;fresh;
+1360;;Jimmie;AK;1;6;4;GD;;;;;;;;;;;0;0;fresh;
+1361;;Jimmie;KA;2;3;5;CO;;;;;;;;;;;1;0;fresh;
+1362;;Jimmie;AK;1;6;4;CO;;;;;;;;;;;3;1;fresh;
+1363;;Jimmie;UM;3;6;3;CO;;;;;;;;;;;0;1;fresh;
+1364;;Jimmie;UM;3;3;3;GD;;;;;;;;;;;2;1;fresh;
+1365;;Jimmie;UM;5;6;2;CO;;;;;;;;;;;4;1;brown;
+1366;;Jimmie;RE;6;6;3;CO;;;;;;;;;;;0;0;fresh;
+1367;;Jimmie;RE;3;5;4;CO;;;;;;;;;;;6;0;fresh;
+1368;;Jimmie;MA;7;5;5;GD;;;;;;;;;;;10;0;fresh;3 black larvea
+1369;;Jimmie;MU;1;6;2;CO;;;;;;;;;;;0;0;fresh;
+1370;;Jimmie;RE;6;6;1;CO;;;;;;;;;;;5;0;fresh;
+1371;;Jimmie;RE;3;4;3;CO;;;;;;;;;;;5;0;fresh;
+1372;Jimmie;Jimmie;KA;7;5;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh ;dead parent
+1373;Jimmie;Jimmie;MA;7;4;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh ;dead parent
+1374;Jimmie;Jimmie;MU;6;4;4;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh ;dead parent
+1375;Jimmie;Jimmie;RE;3;5;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh ;dead parent
+1376;Jimmie;Jimmie;AK;3;6;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh ;dead parent
+1377;Jimmie;Jimmie;UM;6;3;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh ;dead parent
+1378;;Jimmie;MA;4;3;2;GD;;;;;;;;;;;3;0;fresh;
+1379;;Jimmie;RE;3;4;5;GD;;;;;;;;;;;4;0;fresh;
+1380;;Jimmie;MU;4;5;5;GD;;;;;;;;;;;2;0;fresh;
+1381;;Jimmie;MU;6;6;5;GD;;;;;;;;;;;1;0;fresh;
+1382;;Jimmie;KA;2;6;4;GD;;;;;;;;;;;0;0;fresh;
+1383;;Jimmie;AK;1;1;4;CO;;;;;;;;;;;0;0;fresh;
+1384;;Jimmie;UM;1;5;1;GD;;;;;;;;;;;3;1;fresh;1 black larvea
+1385;;Jimmie;MA;5;4;4;CO;;;;;;;;;;;0;0;fresh;
+1386;;Jimmie;UM;3;3;4;GD;;;;;;;;;;;2;0;fresh;
+1387;;Jimmie;MA;6;5;2;CO;;;;;;;;;;;4;0;fresh;
+1388;;Jimmie;MU;5;4;3;CO;;;;;;;;;;;0;0;fresh;
+1389;;Jimmie;MA;5;6;1;CO;;;;;;;;;;;1;0;fresh;1 black larvea
+1390;;Jimmie;KA;2;4;3;CO;;;;;;;;;;;5;0;brown;
+1391;;Jimmie;AK;1;4;4;CO;;;;;;;;;;;2;0;brown;1 black larvea
+1392;;Jimmie;MA;1;6;1;CO;;;;;;;;;;;2;0;fresh;
+1393;;Jimmie;MA;5;6;2;CO;;;;;;;;;;;0;0;fresh;
+1394;;Jimmie;UM;1;4;2;GD;;;;;;;;;;;4;1;fresh;
+1395;;Jimmie;UM;6;6;5;CO;;;;;;;;;;;1;1;fresh;
+1396;;Jimmie;RE;3;4;1;CO;;;;;;;;;;;0;0;fresh;
+1397;;Jimmie;RE;6;5;1;CO;;;;;;;;;;;5;0;fresh;
+1398;;Jimmie;MA;5;6;5;GD;;;;;;;;;;;0;1;fresh;
+1399;;Jimmie;MU;5;4;4;CO;;;;;;;;;;;0;0;fresh;
+1400;;Jimmie;MU;1;6;1;CO;;;;;;;;;;;4;1;fresh;
+1401;;Jimmie;UM;3;4;4;CO;;;;;;;;;;;0;0;fresh;
+1402;;Jimmie;UM;4;4;1;CO;;;;;;;;;;;0;0;fresh;
+1403;;Jimmie;UM;3;3;1;GD;;;;;;;;;;;2;0;fresh;
+1404;;Jimmie;MA;7;4;3;GD;;;;;;;;;;;2;0;fresh;
+1405;;Jimmie;AK;3;6;4;CO;;;;;;;;;;;2;1;fresh;
+1406;;Jimmie;MA;7;4;2;GD;;;;;;;;;;;3;2;fresh;
+1407;;Jimmie;UM;6;6;1;GD;;;;;;;;;;;1;0;fresh;
+1408;;Jimmie;MA;5;4;5;GD;;;;;;;;;;;7;0;fresh;
+1409;;Jimmie;RE;4;4;5;CO;;;;;;;;;;;4;0;fresh;
+1410;;Jimmie;AK;5;3;2;GD;;;;;;;;;;;0;0;fresh;
+1411;;Jimmie;RE;1;5;4;GD;;;;;;;;;;;5;0;fresh;
+1412;;Jimmie;KA;1;1;2;CO;;;;;;;;;;;0;0;fresh;
+1413;;Jimmie;MA;7;6;1;GD;;;;;;;;;;;2;0;fresh;
+1414;;Jimmie;UM;1;5;5;GD;;;;;;;;;;;2;0;fresh;
+1415;;Jimmie;RE;1;2;5;CO;;;;;;;;;;;2;0;fresh;
+1416;Jimmie;Jimmie;MA;7;4;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1417;Jimmie;Jimmie;MA;7;5;1;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1418;Jimmie;Jimmie;MA;7;6;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1419;Jimmie;Jimmie;MA;1;3;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1420;Jimmie;Jimmie;AK;2;6;3;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1421;Jimmie;Jimmie;RE;6;6;3;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1422;Jimmie;Jimmie;UM;6;3;4;CO;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1423;;Jimmie;MA;6;6;4;CO;;;;;;;;;;;0;0;fresh;
+1424;;Jimmie;UM;3;6;5;CO;;;;;;;;;;;5;0;fresh;
+1425;;Jimmie;KA;3;1;4;GD;;;;;;;;;;;3;0;fresh;
+1426;;Jimmie;AK;3;4;5;GD;;;;;;;;;;;6;0;fresh;
+1427;Jimmie;Jimmie;AK;1;2;5;GD;0;0;0;0;0;0;0;0;0;0;0;0;fresh;dead parent
+1428;;Jimmie;MA;5;3;5;CO;;;;;;;;;;;1;1;fresh;
+1429;;Jimmie;MA;1;6;3;CO;;;;;;;;;;;1;0;fresh;
+1430;;Jimmie;MA;4;4;3;GD;;;;;;;;;;;4;1;brown;5 black larvea
