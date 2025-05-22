@@ -1,2 +1,2 @@
 # HomingDrive_Heritability
-Code and supplementary files accompanying the paper. 
+Code and supplementary files accompanying the manuscript. 
