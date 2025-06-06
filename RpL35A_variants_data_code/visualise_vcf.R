@@ -76,7 +76,7 @@ p1 <- ggplot() +
   geom_tile(data = whole_region_long[whole_region_long$component=="exon" | whole_region_long$component=="CDS",], aes(x = POS, y = 5, fill = component)) +
   geom_tile(data = whole_region_long[whole_region_long$component=="gRNA target" | whole_region_long$component=="primer",], aes(x = POS, y = 7, fill = component)) +
   scale_fill_manual(values = c("lightblue", "midnightblue", "gold", "hotpink", "hotpink", "hotpink", "hotpink"), name = "Gene components") +
-  xlim(c(5465629,5467102)) +
+  xlim(c(5467102, 5465629)) +
   xlab("Position on chromosome 3R (bp)") +
   ylab("RpL35A") +
   PaperTheme + theme(legend.position = "top", axis.text.y=element_blank(), axis.ticks.y=element_blank())
@@ -84,7 +84,7 @@ p1
 
 p2 <- ggplot() +
   geom_tile(data = vcf_table_long, aes(x = POS, y = 1)) +
-  xlim(c(5465629,5467102)) +
+  xlim(c(5467102, 5465629)) +
   xlab(element_blank()) +
   ylab("Variant sites") +
   PaperTheme + theme(axis.text.y=element_blank(), axis.ticks.y=element_blank())
@@ -96,11 +96,11 @@ frequencies_matrix <- as.matrix(frequencies[,-1])
 row.names(frequencies_matrix) <- frequencies$population
 
 gRNA1 <- as.matrix(rep(0, 48))
-colnames(gRNA1) <- "5465961 - 5465980 (gRNA 1)"
+colnames(gRNA1) <- "5466006 - 5465987 (gRNA 1)"
 gRNA2 <- as.matrix(rep(0, 48))
-colnames(gRNA2) <- "5465987 - 5466006 (gRNA 2)"
+colnames(gRNA2) <- "5465980 - 5465961 (gRNA 2)"
 
-frequencies_matrix <- cbind(frequencies_matrix[,1:9], gRNA1, gRNA2, frequencies_matrix[,10:23])
+frequencies_matrix <- cbind(frequencies_matrix[,23:10], gRNA1, gRNA2, frequencies_matrix[,9:1])
 
 p3 <- as.ggplot(pheatmap(mat = frequencies_matrix, 
                          cluster_cols = FALSE,
@@ -108,14 +108,14 @@ p3 <- as.ggplot(pheatmap(mat = frequencies_matrix,
                          fontsize = 8,
                          color = colorRampPalette(colors=c("white","skyblue"))(100),
                          angle_col = 45,
-                         gaps_col = c(9,10,11)))
+                         gaps_col = c(14,15,16)))
 
 p <- p1 / p2 / plot_spacer() / p3 +
   plot_layout(heights = c(1, 1, 0, 12)) +
   plot_annotation(tag_levels = 'A'); p
 
-ggsave(plot = p, filename = "../popgen_plots/RpL35A_variants.pdf", height = 25, width = 20.7, unit = "cm")
-ggsave(plot = p, filename = "../popgen_plots/RpL35A_variants.png", height = 25, width = 20.7, unit = "cm", dpi = 600)
+ggsave(plot = p, filename = "RpL35A_variants.pdf", height = 25, width = 20.7, unit = "cm")
+ggsave(plot = p, filename = "RpL35A_variants.png", height = 25, width = 20.7, unit = "cm", dpi = 600)
 
 
 

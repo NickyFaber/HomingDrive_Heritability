@@ -212,8 +212,7 @@ results_calculated <- results_complete %>%
          totalMaleOffspring = males_whiteeyes_RG + males_whiteeyes_R + males_whiteeyes_G + males_whiteeyes_N,
          
          cas9Inheritance = (males_whiteeyes_RG + males_whiteeyes_G) / totalMaleOffspring,
-         GDInheritance = (males_whiteeyes_RG + males_whiteeyes_R) / totalMaleOffspring,
-         sexRatio = totalMaleOffspring / totalSexedOffspring)
+         GDInheritance = (males_whiteeyes_RG + males_whiteeyes_R) / totalMaleOffspring)
 
 # Remove incorrect crosses (no GD or no Cas9)
 results_calculated <- results_calculated %>%
@@ -717,7 +716,6 @@ stats::anova(G_genotype_population.genotype_line.genotype_mother, G_population.g
 #-----------------------------------------------------------####
 
 summary(G_genotype_population.genotype_line.genotype_mother)
-
 variances <- data.frame(level = c("population","genotype","population.genotype","population.line","population.line.genotype","population.line.mother"),
                         variance = c(9.012e+00,1.304e-07,1.134e-03,5.396e+01,1.711e-06,5.277e+01)) # Values from the model fit above
 variances$level <- factor(variances$level,
@@ -935,6 +933,21 @@ stats::anova(OLR_full,
 # Using the model with all random effects to calculate heritability
 summary(OLR_population_line_mother_cross)
 vars <- get_variance(OLR_population_line_mother_cross, component = "all", tolerance = 1e-09)
+group_estimates <- broom.mixed::tidy(OLR_population_line_mother_cross, effects = "ran_vals", conf.int = TRUE)
+group_estimates$group <- factor(group_estimates$group, 
+                                levels = c("population","population:line","population:line:mother","population:line:mother:cross"),
+                                labels = c("Population","Isofemale line","Sibling batch","Individual"))
+
+p4 <- ggplot(data = group_estimates) +
+  geom_hline(aes(yintercept = 0), colour = "lightgrey") +
+  geom_point(aes(y = estimate, x = group, group = reorder(level, estimate)), position = position_dodge(width = 0.9)) +
+  geom_linerange(aes(y = estimate, x = group, group = reorder(level, estimate), ymin = conf.low, ymax = conf.high), position = position_dodge(width = 0.9), linewidth = 0.05) +
+  xlab("Experimental level") + 
+  ylab("Effect range") +
+  PaperTheme
+p4
+
+ggsave(plot = p4, filename = "graphs_paper/GD_group_estimates.pdf", height = 10, width = 20.7, unit = "cm")
 
 population <- as.numeric(vars$var.intercept[1])
 line <- as.numeric(vars$var.intercept[2])
@@ -951,16 +964,16 @@ variances$level <- factor(variances$level,
                           levels = c("population", "isofemale line", "mother", "cross"),
                           labels = c("Population", "Isofemale line", "Sibling batch", "Individual"))
 
-p1 <- ggplot(data = variances) +
+p5 <- ggplot(data = variances) +
   geom_segment(aes(x=level, y=variance, xend=level, yend=0)) +
   geom_point(aes(x=level, y=variance), size=4, color="#f177ae") +
   geom_text(aes(x=level, y=variance + 0.03, label = sprintf("%.03e", variance))) +
   xlab("Experimental level") + 
   ylab("Amount of variance explained (logit-link)") +
   PaperTheme
-p1
+p5
 
-ggsave(plot = p1, filename = "graphs_paper/variance_explained_inheritance.pdf", height = 10, width = 10.7, unit = "cm")
-ggsave(plot = p1, filename = "variance_explained_inheritance.png", height = 10, width = 10.7, unit = "cm", dpi = 600)
+ggsave(plot = p5, filename = "graphs_paper/variance_explained_inheritance.pdf", height = 10, width = 10.7, unit = "cm")
+ggsave(plot = p5, filename = "variance_explained_inheritance.png", height = 10, width = 10.7, unit = "cm", dpi = 600)
 
 

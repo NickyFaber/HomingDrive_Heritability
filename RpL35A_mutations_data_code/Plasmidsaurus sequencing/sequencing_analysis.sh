@@ -227,6 +227,7 @@ GGGG -> TGGC
 NF_78_haplotype2
 TGGC -> GGGG
 
+# Reverse complemented with webtool: https://www.bioinformatics.org/sms2/rev_comp.html
 
 
 
